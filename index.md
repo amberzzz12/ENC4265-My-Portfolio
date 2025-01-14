@@ -3,9 +3,8 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+Hello my name is Amber. I am a student at the University of Central Florida majoring in Information Technology with a minor in Finance. I am an enthusiastic and motivated student with an interest in both the technology and business sector. My career goals and areas of interest include system networking, database management, and IT project management. With an understanding in the SQL framework, Linux/Unix design, and different coding languages I am excited to embark on this journey to see how I can use these skills along with my attention to detail, problem solving abilities, and communication among a team to kick start my career. My major and prior work experience at Chick-Fil-A has helped me be a team player, work in a fast-paced environment, and learn great communication skills. I stay active on campus by being a part of clubs like Engineering in Leadership, Society of Women Engineers, and Tennis club. I want to maintain a healthy work life balance and believe it starts while in school.  
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
 
-[Start Here instructional page for copying this website](starthere.md)
+
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
