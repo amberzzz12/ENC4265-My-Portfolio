@@ -8,4 +8,4 @@ Hello my name is Amber. I am a student at the University of Central Florida majo
 ## 
 *No AI tools were made to make this page
 
-<center><></center>
+
