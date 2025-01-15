@@ -7,8 +7,13 @@ Hello my name is Amber. I am a student at the University of Central Florida majo
 
 
 
-![alt text](Headshot.jpg)
+<div align="center">
+  <img src="Headshot.jpg" alt="My Headshot" width="300">
+</div>
+
+
+
 ## 
-*No AI tools were made to make this page
+*AI tools were used to resize this page 
 
 
