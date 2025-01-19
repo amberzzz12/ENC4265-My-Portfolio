@@ -6,9 +6,13 @@
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
+In this analysis I used the Wayback Machine to see how websites were formatted back in the day. After examining the Food Network, Yahoo!, and Stack Overflow, I was surprised to notice how the fonts, colors, and overall display of the page is so different today. The overall design and flow of the websites makes it hard for users to search or even browse around. I also noticed how there is too much information on one page and how the fonts/background colors of the page affect the aesthetic of the page. I noticed how these sites also did not have proper formatting when it comes to the display and look of the websites. Nowadays the norms of websites incorporate better designs with an easy to use format and pictures that help add purpose to the website. Today, websites also adapt to different screen sizes so it remains easy to read. Along with a more coherent look, websites for modern Internet users are also more simple to use and some even offer an AI feature that can answer questions that may not be stated on the website. 
+
 
 ## Assignment Rationale 
+Websites today all seem to have the same or a similar look and feel. As website visitors, we tend to expect certain layouts: menus on the left or along the top of the screen (or both), clear text, high contrast between text and background, and so forth. However, web pages have not always shared these standards. As you will see as you explore older sites, web pages used to be organized much differently. 
 
+This assignment asks you to explore websites that don't follow contemporary standards in order to think critically about what standards you as a visitor have come to expect and to contemplate why these designs have become so standard across so many different types of sites.
 
 ---
 # Quick Start Guide
