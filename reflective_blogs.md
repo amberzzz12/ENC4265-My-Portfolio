@@ -21,9 +21,34 @@ This assignment asks you to explore websites that don't follow contemporary stan
 
 ---
 # Quick Start Guide
+A step by step tutorial of how to use the basics of Instagram!
+
+Steps:
+1) Go to your App store on your mobile device
+2) Type Instagram and then download
+<img src="https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be" alt="Example Image" width="200"> 
+3) Once installed, open the app. You will be promted to this screen
+<img src="https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png" alt="Example Image" width="200"> 
+Fill this information out to create a profile
+
+4) Next your Profile Page and Feed Page will apear. The profile page is all about you! Upload a picture or yourself or write a short bio to let your followers know about you. Do this by clicking the edit profile button. Your feed page shows the reactions your followers do to things you post. An example of this is shown below.   
+<img src="https://cdn.dribbble.com/users/644210/screenshots/2730646/dribbble-ig.jpg" alt="Example Image" width="600">
+- Your feed page will also show new follow request
+<img src="https://www.wikihow.com/images/thumb/6/61/Confirm-a-Follow-Request-on-Instagram-Step-8.jpg/v4-460px-Confirm-a-Follow-Request-on-Instagram-Step-8.jpg.webp" alt="Example Image" width="400"> 
+5) You are able to post your own pictures, view other people's post, explore new videos and pictures, create short videos called Reels, and have the option to go "Live" where your followers will hear and see you in real time by clicking on the + icon. 
+<img src="https://www.plannthat.com/wp-content/uploads/2022/06/How-to-Post-an-Instagram-Story-613x1024.png" alt="Example Image" width="200">
+
+Here is what this screen will look like
+
+6) In order to send direct messages to your mutual followers click on the home screen at the bottom of the page and click on the button with a thought bubble with a lightning strike. Pictured below. Here it also shows you can also write something on your mind for your followers to see. 
+<img src="https://buffer.com/library/content/images/2023/09/Posting-a-new-note-instagram.png" alt="Example Image" width="700">
+
+7) 
 
 ## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+Changes in technology can cause disruptive changes across many industries! On the job in the computer industry, it is likely that you will be asked to complete quick-start guides, tutorials, instructional videos, and manuals in a very short amount of time. Other careers may also require these skills, and given how many of us rely on computers in our daily lives, the updates that are constantly being pushed out, unfortunately, sometimes seem to take the approach of "update now, explain the update to users later" (anybody remember Windows 8 Links to an external site.?).
+
+You need to be able to quickly figure out a platform on your own, and then clearly explain how to use it in writing, image, or video (or a combination of these).
 
 ## Where to Start
 Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
