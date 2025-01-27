@@ -21,53 +21,64 @@ This assignment asks you to explore websites that don't follow contemporary stan
 
 ---
 # Quick Start Guide
-A step by step tutorial of how to use the basics of Instagram!
+## A step by step tutorial of how to use the basics of Instagram!
 
-Steps:
-1) Go to your App store on your mobile device
-2) Type Instagram and then download
-<img src="https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be" alt="Example Image" width="200"> 
+**Steps:**
+1) Go to your **App store** on your mobile device
+2) Type **Instagram** and then download
+<img src="https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be" alt="Example Image" width="200">
+Figure 1. Current Instagram logo 
+
 3) Once installed, open the app. You will be promted to this screen
 <img src="https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png" alt="Example Image" width="200"> 
-Fill this information out to create a profile
+**Fill this information out to create a unique profile!**
 
-4) Next your Profile Page and Feed Page will apear. The profile page is all about you! Upload a picture or yourself or write a short bio to let your followers know about you. Do this by clicking the edit profile button. Your feed page shows the reactions your followers do to things you post. An example of this is shown below.   
+4) Next, you'll see your Profile and Feed pages.
+   - On your Profile, upload a picture or write a short bio by clicking **"Edit Profile."**
+   - Your Feed shows your followers' reactions to your posts and new follow request, as shown below.   
 <img src="https://cdn.dribbble.com/users/644210/screenshots/2730646/dribbble-ig.jpg" alt="Example Image" width="600">
-- Your feed page will also show new follow request
+
 <img src="https://www.wikihow.com/images/thumb/6/61/Confirm-a-Follow-Request-on-Instagram-Step-8.jpg/v4-460px-Confirm-a-Follow-Request-on-Instagram-Step-8.jpg.webp" alt="Example Image" width="400"> 
-5) You are able to post your own pictures, view other people's post, explore new videos and pictures, create short videos called Reels, and have the option to go "Live" where your followers will hear and see you in real time by clicking on the + icon. 
+Figure 3 & 4. Visual representation of what this screen looks like
+
+5) Different ways to interact in the app by clicking the "+"
+  
+   - Home Screen: View posts from people you follow.
+   - Search Tab: Discover new content, accounts, and hashtags.
+   - Reels Tab: Watch short, entertaining videos.
+   - Profile Tab: Access your posts, followers, and account settings.
 <img src="https://www.plannthat.com/wp-content/uploads/2022/06/How-to-Post-an-Instagram-Story-613x1024.png" alt="Example Image" width="200">
+Figure 5. Here is what this screen will look like
 
-Here is what this screen will look like
+6) In order to post photos or videos:
+    - Tap the "+" icon, choose a photo/video, and add filters or edits. Write a caption, include hashtags, and tag people if needed.
+    - To post on your story which disappear after 24 hours you can add text, stickers, GIFs, and music.
+<img src="https://buffer.com/library/content/images/2023/09/Posting-on-Instagram.png" alt="Example Image" width="600">
+Figure 6. A visual representation of what the post screen will look like.
 
-6) In order to send direct messages to your mutual followers click on the home screen at the bottom of the page and click on the button with a thought bubble with a lightning strike. Pictured below. Here it also shows you can also write something on your mind for your followers to see. 
+7) To send direct messages to mutual followers, tap the home screen, then select the thought bubble with a lightning bolt. You can also share what's on your mind with your followers here 
 <img src="https://buffer.com/library/content/images/2023/09/Posting-a-new-note-instagram.png" alt="Example Image" width="700">
+Figure 7. Here is what that screen will look like
 
-7) 
+8) Different ways Engage with Others
+   - Follow accounts by searching them to find friends, influencers, or brands and follow them by using the search engine.
+   - To like and comment double-tap to like a post or leave comments to engage.
+
+9) To customize your account settings:
+   - Go to Privacy Settings on the home page to decide whether your account is public or private.
+   - Notification Preferences: Choose how and when Instagram notifies you.
+<img src="https://media.gcflearnfree.org/content/55e091fe24929be027950a3d_10_16_2014/settings_private_account.jpg" alt="Example Image" width="200">
+Figure 8. This is how the screen will look like
+
+## **These basic steps will help you get started using Instagram. Enjoy!**
 
 ## Assignment Rationale 
 Changes in technology can cause disruptive changes across many industries! On the job in the computer industry, it is likely that you will be asked to complete quick-start guides, tutorials, instructional videos, and manuals in a very short amount of time. Other careers may also require these skills, and given how many of us rely on computers in our daily lives, the updates that are constantly being pushed out, unfortunately, sometimes seem to take the approach of "update now, explain the update to users later" (anybody remember Windows 8 Links to an external site.?).
 
 You need to be able to quickly figure out a platform on your own, and then clearly explain how to use it in writing, image, or video (or a combination of these).
 
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
-
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
-
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
 ---
 # Reflective Blog 3
 
 *AI was used to resize this page.
+
