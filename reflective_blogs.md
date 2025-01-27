@@ -47,7 +47,8 @@ Figure 3 & 4. Visual representation of what this screen looks like
    - Search Tab: Discover new content, accounts, and hashtags.
    - Reels Tab: Watch short, entertaining videos.
    - Profile Tab: Access your posts, followers, and account settings.
-<img src="https://www.plannthat.com/wp-content/uploads/2022/06/How-to-Post-an-Instagram-Story-613x1024.png" alt="Example Image" width="200">
+   
+![alt text](https://www.plannthat.com/wp-content/uploads/2022/06/How-to-Post-an-Instagram-Story-613x1024.png)
 Figure 5. Here is what this screen will look like
 
 6) In order to post photos or videos:
@@ -67,7 +68,8 @@ Figure 7. Here is what that screen will look like
 9) To customize your account settings:
    - Go to Privacy Settings on the home page to decide whether your account is public or private.
    - Notification Preferences: Choose how and when Instagram notifies you.
-<img src="https://media.gcflearnfree.org/content/55e091fe24929be027950a3d_10_16_2014/settings_private_account.jpg" alt="Example Image" width="200">
+
+![alt text](https://media.gcflearnfree.org/content/55e091fe24929be027950a3d_10_16_2014/settings_private_account.jpg)
 Figure 8. This is how the screen will look like
 
 ## **These basic steps will help you get started using Instagram. Enjoy!**
