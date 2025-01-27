@@ -24,13 +24,17 @@ This assignment asks you to explore websites that don't follow contemporary stan
 ## A step by step tutorial of how to use the basics of Instagram!
 
 **Steps:**
+
 1) Go to your **App store** on your mobile device
+
 2) Type **Instagram** and then download
-<img src="https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be" alt="Example Image" width="200">
+![alt text](https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be)
 Figure 1. Current Instagram logo 
 
 3) Once installed, open the app. You will be promted to this screen
-<img src="https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png" alt="Example Image" width="200"> 
+   
+![alt text](https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png)
+
 **Fill this information out to create a unique profile!**
 
 4) Next, you'll see your Profile and Feed pages.
