@@ -34,6 +34,7 @@ Figure 1. Current Instagram logo
 3) Once installed, open the app. You will be promted to this screen
    
 ![alt text](https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png)
+Figure 2. Visual representation of the profile app 
 
 **Fill this information out to create a unique profile!**
 
