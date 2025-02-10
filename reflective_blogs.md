@@ -86,6 +86,20 @@ You need to be able to quickly figure out a platform on your own, and then clear
 
 ---
 # Reflective Blog 3
+## Directions:
+Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
 
-*AI was used to resize this page.
+## Assignment Response:
+I will be reflecting on my "Quick Start Guide".
+- This Deliverable had different aspects that made it come together. One of the easier parts to creating the Quick Start Guide was structuring the steps in a logical sequence. Since I was already familiar with the process I was explaining, it was easiser to break it down into smaller actions for the audience to follow with.   
+- Some of the difficulties was balancing the text and visuals. At times I relied too much on images without fully writing out the necessary steps, which made some instructions vague in some points. Additionally, ensuring that each image had an appropriate caption and proper citiation was something I overlooked. Sometimes when you are so used to using an application it makes you forget about the smaller steps or over explain a process. It is important to find the balance between, which was a bit challenging at times. 
+- This assignment reinforced the importance of clarity and structure in technical writing. I realized that while I tend to focus on making documents visually appealing, I need to ensure that the text itself is clear as well. Unlike everyday writing, technical writing helps make the text as conceise and clear as possible while including visuals to support your points. It helped me practice how to incorporate both to make the information both insightful and easy to read.  
+- After reading the instructor's feedback I will keep the following in mind:
+   * Improving the clarity on image captions
+   * Delete any defintions and stick to key points
+   * Focus should remain on actionable steps
+   
+
+
+*No AI was used 
 
