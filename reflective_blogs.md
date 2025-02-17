@@ -4,6 +4,8 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
+
    
 # Wayback Analysis
 <img src="https://helios-i.mashable.com/imagery/articles/032HZdBIF99jgj2IsxFmg8d/hero-image.fill.size_1248x702.v1631655213.jpg" alt="Example Image" width="400"> <img src="https://static.vecteezy.com/system/resources/thumbnails/037/156/782/small_2x/right-arrow-icon-vector.jpg" alt="Example Image" width="150">  <img src="https://colibriwp.com/blog/wp-content/uploads/2018/07/banner-redimensionat.jpg" alt="Example Image" width="405">
@@ -28,9 +30,7 @@ This assignment asks you to explore websites that don't follow contemporary stan
 1) Go to your **App store** on your mobile device
 
 2) Type **Instagram** and then download
-![alt text](https://discussions.apple.com/content/attachment/818b32dd-adee-4a00-a70f-abb36ee9d5be)
-Figure 1. Current Instagram logo 
-
+   
 3) Once installed, open the app. You will be promted to this screen
    
 ![alt text](https://www.godaddy.com/resources/wp-content/uploads/how-to-create-an-instagram-account-setup-screen.png)
@@ -53,8 +53,7 @@ Figure 3 & 4. Visual representation of what this screen looks like
    - Reels Tab: Watch short, entertaining videos.
    - Profile Tab: Access your posts, followers, and account settings.
    
-![alt text](https://www.plannthat.com/wp-content/uploads/2022/06/How-to-Post-an-Instagram-Story-613x1024.png)
-Figure 5. Here is what this screen will look like
+
 
 6) In order to post photos or videos:
     - Tap the "+" icon, choose a photo/video, and add filters or edits. Write a caption, include hashtags, and tag people if needed.
@@ -102,4 +101,39 @@ I will be reflecting on my "Quick Start Guide".
 
 
 *No AI was used 
+
+---
+# Reflective Blog 4
+## Directions: 
+Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot's: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)
+
+## Assignment Response:
+
+ChatBox Analysis:
+
+Purpose:
+
+The chatbot I interacted with was a customer service/virtual assistant bot designed to assist users with answering FAQs, troubleshooting technical issues, processing orders. Its primary goal is to provide quick and automated support, reducing wait times for users and minimizing the need for human intervention.
+
+Functionality:
+
+The chatbot performed well in completing its tasks. It could accurately provide answers, handle multiple queries, and offer links to resources, but it struggled with complex requests, understanding context, handing off to human agents. The bot had predefined options vs. natural language understanding, making it efficient but limited in flexibility.
+
+User Experience:
+
+Strengths:
+* Ease of use: The chatbot had a simple and an intuitive interface, with buttons and quick replies that made navigation smooth.
+*Speed: Responses were fast and provided instant feedback which enhanced efficiency.
+*Helpful features: It offered order tracking, FAQs, and troubleshooting guides, making it useful for specific user needs.
+
+Weaknesses:
+*Limited understanding of nuanced questions: When asked complex/multi-part queries, the bot gave generic responses or misunderstood intent.
+*No human escalation: There was no clear way to connect with a live agent, which could frustrate users with urgent/unresolved issues.
+*Repetitive responses: The chatbot sometimes looped back to the same answer or failed to remember context from previous interactions.
+
+Context & Benefits:
+
+For users, the chatbot provides quick, accessible support without needing to call or email customer service. It is particularly useful for frequent questions, 24/7 availability, or simple tasks like resetting passwords, and tracking orders.For the organization, the chatbot reduces customer support workload, lowers operational costs, and ensures consistent responses. It also collects user data, identifies common issues, and improves future service based on interactions.
+
+*ChatGPT was used to improve content
 
