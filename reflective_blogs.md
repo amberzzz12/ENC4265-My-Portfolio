@@ -113,7 +113,7 @@ ChatBox Analysis:
 
 Purpose:
 
-The chatbot I interacted with was a customer service/virtual assistant bot designed to assist users with answering FAQs, troubleshooting technical issues, processing orders. Its primary goal is to provide quick and automated support, reducing wait times for users and minimizing the need for human intervention.
+The chatbot I interacted with was a virtual assistant bot designed to assist users with answering FAQs, troubleshooting technical issues, processing orders. Its primary goal is to provide quick and automated support, reducing wait times for users and minimizing the need for human intervention.
 
 Functionality:
 
@@ -123,17 +123,17 @@ User Experience:
 
 Strengths:
 * Ease of use: The chatbot had a simple and an intuitive interface, with buttons and quick replies that made navigation smooth.
-*Speed: Responses were fast and provided instant feedback which enhanced efficiency.
-*Helpful features: It offered order tracking, FAQs, and troubleshooting guides, making it useful for specific user needs.
+* Speed: Responses were fast and provided instant feedback which enhanced efficiency.
+* Helpful features: It offered order tracking, FAQs, and troubleshooting guides, making it useful for specific user needs.
 
 Weaknesses:
-*Limited understanding of nuanced questions: When asked complex/multi-part queries, the bot gave generic responses or misunderstood intent.
-*No human escalation: There was no clear way to connect with a live agent, which could frustrate users with urgent/unresolved issues.
-*Repetitive responses: The chatbot sometimes looped back to the same answer or failed to remember context from previous interactions.
+* Limited understanding of nuanced questions: When asked complex/multi-part queries, the bot gave generic responses or misunderstood intent.
+* No human escalation: There was no clear way to connect with a live agent, which could frustrate users with urgent/unresolved issues.
+* Repetitive responses: The chatbot sometimes looped back to the same answer or failed to remember context from previous interactions.
 
 Context & Benefits:
 
-For users, the chatbot provides quick, accessible support without needing to call or email customer service. It is particularly useful for frequent questions, 24/7 availability, or simple tasks like resetting passwords, and tracking orders.For the organization, the chatbot reduces customer support workload, lowers operational costs, and ensures consistent responses. It also collects user data, identifies common issues, and improves future service based on interactions.
+For users, the chatbot provides quick, accessible support without needing to call or email customer service. It is particularly useful for frequent questions, 24/7 availability, or simple tasks like resetting passwords, and tracking orders. For the organization, the chatbot reduces customer support workload, lowers operational costs, and ensures consistent responses. It also collects user data, identifies common issues, and improves future service based on interactions.
 
 *ChatGPT was used to improve content
 
