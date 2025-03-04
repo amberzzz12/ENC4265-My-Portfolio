@@ -13,7 +13,6 @@ Hello my name is Amber. I am a student at the University of Central Florida majo
 
 
 
-## 
-*AI tools were used to resize this page 
+
 
 
