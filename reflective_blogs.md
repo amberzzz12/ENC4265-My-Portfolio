@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
 
    
 # Wayback Analysis
@@ -189,4 +190,57 @@ Headings Benefit Readers:
 * Accessibility & SEO Considerations: Proper HTML tagging helps both search engines and assistive technologies interpret the page correctly.
 
 
+*ChatGPT 4o was used to enhance readability 
+
+---
+# Reflective Blog 6
+
+## Directions
+Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+## Assignment Response 
+After completing the Chatbot assignment I witnessed first hand how helpful AI is when it comes to answering questions. I used BoodleBot to generate my chatbot and all I had to do was upload "knowledge" that the chatbot will reference back to and it took care of the rest. I noticed how it was able to take large and long pieces of text and strcuture them in an easy to use way for the user. The following further explains my interaction with AI and how it is shaping the future. 
+
+**AI excels at:**
+* Generating text and content quickly and efficiently based on patterns in data.
+* Summarizing information, making it easier to digest complex topics.
+* Answering technical questions by providing explanations and examples.
+* Automating repetitive tasks, such as data entry, formatting, or document generation.
+* Providing creative inspiration, such as brainstorming ideas for writing, design, or problem-solving.
+
+
+**AI struggles with:**
+* Understanding context perfectly, especially in nuanced or ambiguous situations.
+* Providing original thought or critical reasoning, as it relies on patterns in existing data.
+* Handling highly subjective or emotional content, like complex ethical decisions.
+* Ensuring factual accuracy in real-time since it may generate outdated or incorrect information.
+* Interpreting sarcasm, humor, or cultural references as humans do.
+
+
+**What did I had to correct or re-prompt it to modify?**
+
+In my case, I had to guide the AI by providing certain characteristics and specifying the level of detail needed to tailor the responses specifically for writing. This meant directing it toward technical writing principles, adjusting tone and style, and ensuring the output was relevant to structured, professional communication. Additionally, I had to give the bot specific characteristics that matched the personality I gave the chatbot such as his name, gender, and purpose for the class. 
+
+
+**What can you know about its training data?**
+* Large amounts of publicly available text, including books, articles, and websites.
+* Technical documentation and programming-related content.
+* Academic papers and research materials, although not in real-time.
+
+**What kinds of data were included?**
+* General knowledge from textbooks chapters from Letting Go of The Words
+* Programming and technical documentation 
+* A creative bio of who the chatbot is and what its purpose is giving it a friendly tone
+
+**What kinds of data were excluded?**
+* Live, real-time data, meaning AI doesn’t have up-to-the-minute knowledge.
+* Highly specialized or obscure knowledge, unless it’s widely documented.
+* Sensitive personal data, due to privacy concerns.
+
+**What does the future hold as this technology advances?**
+
+As AI advances, it will achieve better contextual understanding, making responses more precise and relevant. Real-time learning capabilities will help it stay up to date, while stronger ethical safeguards will reduce bias and misinformation. Enhanced collaboration between humans and AI will improve creativity, decision-making, and automation. AI is already transforming how people interact with information, and as it continues to evolve, it will become an even more powerful assistant across various industries.
+
+
+---
 *ChatGPT 4o was used to enhance readability 
