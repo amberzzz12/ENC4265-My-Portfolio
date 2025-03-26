@@ -7,7 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
-
+7. [Reflective Blog 7](#reflective-blog-7)
    
 # Wayback Analysis
 <img src="https://helios-i.mashable.com/imagery/articles/032HZdBIF99jgj2IsxFmg8d/hero-image.fill.size_1248x702.v1631655213.jpg" alt="Example Image" width="400"> <img src="https://static.vecteezy.com/system/resources/thumbnails/037/156/782/small_2x/right-arrow-icon-vector.jpg" alt="Example Image" width="150">  <img src="https://colibriwp.com/blog/wp-content/uploads/2018/07/banner-redimensionat.jpg" alt="Example Image" width="405">
@@ -244,3 +244,29 @@ As AI advances, it will achieve better contextual understanding, making response
 
 ---
 *ChatGPT 4o was used to enhance readability 
+
+---
+# Reflective Blog 7
+
+## Directions: 
+Prompt G: Analyze an assignment explanation page from this course (including video overview, if there is one) as though it is a mini-tutorial or how-to. Obviously, the audience and genre of writing are different than a typical how-to, but what elements are the same/similar? What are different? What could be more clear, regardless of the genre or intended audience? (I might incorporate your suggestions in future courses!) 
+
+## Assignment Response:
+I will be analyzing the Procedure Video assignment page from this course. 
+
+The assignment pages in this course are very detailed-oriented and descriptive for what is expected from the students. The specific page I am reviewing includes an embedded video explaining the text on the page in more detail in an easy to follow manner and may answer any questions that could arise. Similar to a how-to tutorial it includes:
+* Clear Purpose: Both aim to teach a specific task — how to create a procedure video in this case.
+* Step-by-Step Approach: Like a traditional tutorial, the explanation page breaks down the process into manageable steps to follow along with.
+* Multimedia Support: The embedded video adds a visual and auditory dimension which is useful to first timers doing this
+* Tool Recommendations: Suggests using specific tools (like YouTube, Zoom, and PowerPoint) to accomplish the task.
+
+Although the assignment page and the how-to tutorial share many similarities some differences I noticed between the two are:
+* Formatting Style: The explanation page is more narrative and less structured than typical how-tos, which often use numbered steps and shorter explanations aiming to use as little words as possible
+* Assumed Knowledge: The explanation assumes familiarity with certain tools (like YouTube captions) without step-by-step guidance, whereas tutorials often cater to beginners.
+* More use of visuals: There are more detailed diagrams or pictures that reference a certain step or steps in a how-to that lead little to no interpretation of the user. 
+
+To make the explanation page clearer and more effective, it would be helpful to include a sample procedure video instead of just explaining the process. This sample could serve as a concrete example, demonstrating what a well-crafted procedure video looks like — from planning and scripting to recording and editing. For visual learners, like myself, I think it would help bring all the information together in a video that shows what each point of the rubric looks like. But other than that I appreciate the page and how it uses headings, bullet points, and a resource page to further help do the the assignment. 
+
+--- 
+*ChatGPT 4o was used to enhance readability 
+
