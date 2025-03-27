@@ -3,7 +3,33 @@
 
 # Procedure Video
 
-[![Watch the video](https://img.youtube.com/vi/iadzYtX4ERU/maxresdefault.jpg)](https://youtu.be/iadzYtX4ERU)
+## Reason for this Assignment
 
-### [Watch this video on YouTube](https://youtu.be/iadzYtX4ERU)
+People often need help with a specific procedure that is especially complicated or difficult to explain in static text and images. Enter: video. 
+The procedure video explains how to do one specific thing and is short and to the point. It does not need to include the "why" of each step (like a tutorial does). This is simply how to do one thing.
+
+---
+
+This video will teach you the basics of chess, including how to set up the board, how each piece moves, and essential strategies to improve your game. Whether you're a complete beginner or just need a refresher, you'll learn everything you need to start playing confidently! 
+Disclaimer: This video covers general chess knowledge but does not include special tactics or advanced moves.
+
+After watching this video you will:
+* Understand the Chessboard
+* Know How to Set Up the Pieces
+* Understand How Each Piece Moves & Their Point Value
+* A Few Special Rules
+* Strategies to Help You Win
+
+Enjoy watching and happy checkmating!
+
+###### * To access captions and subtitles click the settings button on the video and click English-generated subtitles for accruate captions to follow along with!
+
+<a href="https://www.youtube.com/watch?v=2WqRgLNFfnA">
+    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/CHESScom/phphK5JVu.png" alt="Watch the video" width="400" height="230">
+</a>
+
+
+
+
+### [Direct Link to Procdure Video](https://www.youtube.com/watch?v=2WqRgLNFfnA)
 
