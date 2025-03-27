@@ -1,6 +1,7 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
 
+
 # Procedure Video
 
 ## Reason for this Assignment
@@ -25,19 +26,25 @@ Enjoy watching and happy checkmating!
 
 Use the link below to direct to the procedure video of the basics of how to play chess!
 
-###### * To access captions and subtitles click the settings button on the video and click English-generated subtitles for accruate captions to follow along with!
+###### * To access captions and subtitles click the settings button on the video and click English-generated subtitles for accurate captions to follow along with!
 <a href="https://www.youtube.com/watch?v=2WqRgLNFfnA">
     <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/CHESScom/phphK5JVu.png" alt="Watch the video" width="400" height="230">
 </a>
 
 
-### [Direct Link to Procdure Video](https://www.youtube.com/watch?v=2WqRgLNFfnA)
+### [Direct Link to Procedure Video](https://www.youtube.com/watch?v=2WqRgLNFfnA)
 
 
 
 ---
 * ChatGPT 4o was used to create the script for this assignment
 * No other AI was used
+
+
+
+
+
+
 
 
 
