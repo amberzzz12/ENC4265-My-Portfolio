@@ -24,7 +24,7 @@ After watching this video you will:
 Enjoy watching and happy checkmating!
 
 
-Use the link below to direct to the procedure video of the basics of how to play chess!
+Click on the picture or use the link below to direct to the procedure video of the basics of how to play chess!
 
 
 <a href="https://www.youtube.com/watch?v=YL8QOWvQBcg">
