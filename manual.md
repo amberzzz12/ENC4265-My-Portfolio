@@ -7,21 +7,21 @@ Manual: How to Set Up a Secure Remote Work Environment and Why It Matters!
 
 For remote workers, freelancers, digital nomads, and anyone working from home in bunny slippers.
 
-📘 Table of Contents:
+## Table of Contents:
 1. [Why Security Matters When You Work Remotely](#Why-Security-Matters-When-You-Work-Remotely)
-2. Understanding the Threat Landscape
-3. How to Secure Your Devices
-4. How to Secure Your Wi-Fi & Internet
-5. How to Use a VPN (and Why You Really Should)
-6. How to Manage Passwords Like a Pro
-7. Protecting Client & Company Data
-8. Managing Work on Shared or Public Devices
-9. The Importance of Regular Backups
-10. Final Checklist for a Fort Knox-Level Setup
-11. Additional Tools and Resources
-12. Conclusion
-13. AI Tools Used
-14. Works Cited
+2. [Understanding the Threat Landscape](#Understanding-the-Threat-Landscape)
+3. [How to Secure Your Devices](#How-to-Secure-Your-Devices)
+4. [How to Secure Your Wi-Fi & Internet](#How-to-Secure-Your-Wi-Fi-&-Internet)
+5. [How to Use a VPN (and Why You Really Should)](#How-to-Use-a-VPN-)
+6. [How to Manage Passwords Like a Pro](#How-to-Manage-Passwords-Like-a-Pro)
+7. [Protecting Client & Company Data](#Protecting-Client-&-Company-Data)
+8. [Managing Work on Shared or Public Devices](#Managing-Work-on-Shared-or-Public-Devices)
+9. [The Importance of Regular Backups](#The-Importance-of-Regular-Backups)
+10. [Final Checklist for a Fort Knox-Level Setup](#Final-Checklist-for-a-Fort-Knox-Level-Setup)
+11. [Additional Tools and Resources](#Additional-Tools-and-Resources)
+12. [Conclusion](#Conclusion)
+13. [AI Tools Used](#AI-Tools-Used)
+14. [Works Cited](#Works-Cited)
 ---
 1. Why Security Matters When You Work Remotely
 
