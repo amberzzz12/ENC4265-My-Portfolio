@@ -8,7 +8,7 @@ Manual: How to Set Up a Secure Remote Work Environment and Why It Matters!
 For remote workers, freelancers, digital nomads, and anyone working from home in bunny slippers.
 
 📘 Table of Contents:
-1. Why Security Matters When You Work Remotely
+1. [Why Security Matters When You Work Remotely](#Why-Security-Matters-When-You-Work-Remotely)
 2. Understanding the Threat Landscape
 3. How to Secure Your Devices
 4. How to Secure Your Wi-Fi & Internet
