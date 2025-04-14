@@ -54,7 +54,7 @@ Protect Yourself:
 * Avoid public Wi-Fi for sensitive tasks (banking, work emails).
 * Use a VPN to encrypt your internet connection.
 
-![alt text](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/605cab5ff8f386ea033ae16c_Man-in-the-Middle%20Attack.jpg)
+![alt text](https://www.thesslstore.com/blog/wp-content/uploads/2018/11/man-in-the-middle-attack.png)
 
 2. Phishing Attacks
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
