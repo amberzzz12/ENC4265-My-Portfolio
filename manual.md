@@ -12,7 +12,7 @@ This manual will help build a secure and resilient remote work environment. It w
 
  ## Table of Contents:
 
-* [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
+* [Why Security Matters When You Work Remotely](-why-security-matters-when-you-work-remotely)
 * [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
 * [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
 * [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
@@ -25,10 +25,10 @@ This manual will help build a secure and resilient remote work environment. It w
 * [Additional Tools and Resources](#11-Additional-Tools-and-Resources)
 * [Conclusion](#12-Conclusion)
 * [AI Tools Used](#13-AI-Tools-Used)
-*[Works Cited](#14-Works-Cited)
+* [Works Cited](#14-Works-Cited)
 ---
 
-## 1. Why Security Matters When You Work Remotely
+## Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
@@ -53,8 +53,17 @@ What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee s
 Protect Yourself: 
 * Avoid public Wi-Fi for sensitive tasks (banking, work emails).
 * Use a VPN to encrypt your internet connection.
+---
+<img src="https://www.thesslstore.com/blog/wp-content/uploads/2018/11/man-in-the-middle-attack.png" alt="Man-in-the-Middle Attack" width="600" />
 
-![alt text](https://www.thesslstore.com/blog/wp-content/uploads/2018/11/man-in-the-middle-attack.png)
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+  <strong>Figure 1:</strong> A hacker secretly intercepts communication between a device and a network in a Man-in-the-Middle (MitM) attack. Captured from 
+  <a href="https://www.thesslstore.com/blog/man-in-the-middle-attack-2/" target="_blank" style="color: lightgray;">The SSL Store</a>.
+</p>
+
+---
+
+
 
 2. Phishing Attacks
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
@@ -64,6 +73,15 @@ Protect Yourself:
 * Don’t click links in emails—go directly to the site.
 * Enable Multi-Factor Authentication (MFA) for extra account protection.
 
+---
+<img src="https://learning.mlytics.com/wp-content/uploads/2019/07/what-is-phising-attack.png" alt="Phising Attack" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+  <strong>Figure 2:</strong> How the Phishing Attack Works. Captured from 
+  <a href="https://learning.mlytics.com/cyber-attacks/what-is-a-phishing-attack/" target="_blank" style="color: lightgray;">mlytics Learning Center</a>.
+</p>
+
+---
 
 3. Infected USB Devices
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
@@ -73,6 +91,16 @@ Protect Yourself:
 * Scan USBs with antivirus software.
 * Turn off auto-run so malware doesn’t launch automatically.
 
+---
+<img src="https://content.nordlayer.com/uploads/Juice_jacking_threat_blog_cover_1400x800_9378d5f23f.webp" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+  <strong>Figure 3:</strong> What an infected USB port can do if infected and how it exports phone data to the hacker. Captured from 
+  <a href="https://nordlayer.com/blog/juice-jacking-the-hidden-cyber-threat/" target="_blank" style="color: lightgray;">NordLayer</a>.
+</p>
+
+---
+
 
 4. Outdated Software (Unpatched Vulnerabilities)
 What Happens: Hackers target old software with known flaws to access your device and data.
@@ -81,6 +109,17 @@ Protect Yourself:
 * Update your OS, apps, and browser regularly.
 * Turn on automatic updates.
 * Use trusted software that gets regular security patches.
+
+---
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+  <strong>Figure 4:</strong> In Mac settings where to make sure updates are automatic. Captured from 
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: lightgray;">OSXDaily</a>.
+</p>
+
+---
+
 
 ## **3. How to Secure Your Devices**
 
