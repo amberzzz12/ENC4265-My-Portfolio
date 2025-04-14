@@ -10,9 +10,9 @@ This manual will help build a secure and resilient remote work environment. It w
 
 ---
 
- ## Table of Contents:
+ Table of Contents:
 
-* [Why Security Matters When You Work Remotely](-why-security-matters-when-you-work-remotely)
+* [Why Security Matters When You Work Remotely](1.-why-security-matters-when-you-work-remotely)
 * [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
 * [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
 * [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
@@ -28,7 +28,7 @@ This manual will help build a secure and resilient remote work environment. It w
 * [Works Cited](#14-Works-Cited)
 ---
 
-## Why Security Matters When You Work Remotely
+# 1. Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
@@ -58,10 +58,10 @@ Protect Yourself:
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
   <strong>Figure 1:</strong> A hacker secretly intercepts communication between a device and a network in a Man-in-the-Middle (MitM) attack. Captured from 
-  <a href="https://www.thesslstore.com/blog/man-in-the-middle-attack-2/" target="_blank" style="color: lightgray;">The SSL Store</a>.
+  <a href="https://www.thesslstore.com/blog/man-in-the-middle-attack-2/" target="_blank" style="color: gray;">The SSL Store</a>.
 </p>
 
----
+
 
 
 
@@ -78,10 +78,10 @@ Protect Yourself:
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
   <strong>Figure 2:</strong> How the Phishing Attack Works. Captured from 
-  <a href="https://learning.mlytics.com/cyber-attacks/what-is-a-phishing-attack/" target="_blank" style="color: lightgray;">mlytics Learning Center</a>.
+  <a href="https://learning.mlytics.com/cyber-attacks/what-is-a-phishing-attack/" target="_blank" style="color: gray;">mlytics Learning Center</a>.
 </p>
 
----
+
 
 3. Infected USB Devices
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
@@ -96,10 +96,10 @@ Protect Yourself:
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
   <strong>Figure 3:</strong> What an infected USB port can do if infected and how it exports phone data to the hacker. Captured from 
-  <a href="https://nordlayer.com/blog/juice-jacking-the-hidden-cyber-threat/" target="_blank" style="color: lightgray;">NordLayer</a>.
+  <a href="https://nordlayer.com/blog/juice-jacking-the-hidden-cyber-threat/" target="_blank" style="color: gray;">NordLayer</a>.
 </p>
 
----
+
 
 
 4. Outdated Software (Unpatched Vulnerabilities)
@@ -115,7 +115,7 @@ Protect Yourself:
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
   <strong>Figure 4:</strong> In Mac settings where to make sure updates are automatic. Captured from 
-  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: lightgray;">OSXDaily</a>.
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
 </p>
 
 ---
