@@ -45,7 +45,7 @@ This manual is your step-by-step guide to securing your remote work setup. Wheth
 
 In the constant evolving world of technology there are online threats everywhere. This section will help clarify you on some of the most frequent risks and easy ways to avoid falling for them. 
 
-Common Digital Threats for Remote Workers
+Common Digital Threats for Remote Workers:
 
 1. Public Wi-Fi Risks (Man-in-the-Middle Attacks)
 What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
@@ -56,12 +56,10 @@ Protect Yourself:
 ---
 <img src="https://www.thesslstore.com/blog/wp-content/uploads/2018/11/man-in-the-middle-attack.png" alt="Man-in-the-Middle Attack" width="600" />
 
-<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
   <strong>Figure 1:</strong> A hacker secretly intercepts communication between a device and a network in a Man-in-the-Middle (MitM) attack. Captured from 
   <a href="https://www.thesslstore.com/blog/man-in-the-middle-attack-2/" target="_blank" style="color: gray;">The SSL Store</a>.
 </p>
-
-
 
 
 
@@ -76,7 +74,7 @@ Protect Yourself:
 ---
 <img src="https://learning.mlytics.com/wp-content/uploads/2019/07/what-is-phising-attack.png" alt="Phising Attack" width="600" />
 
-<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
   <strong>Figure 2:</strong> How the Phishing Attack Works. Captured from 
   <a href="https://learning.mlytics.com/cyber-attacks/what-is-a-phishing-attack/" target="_blank" style="color: gray;">mlytics Learning Center</a>.
 </p>
@@ -94,11 +92,10 @@ Protect Yourself:
 ---
 <img src="https://content.nordlayer.com/uploads/Juice_jacking_threat_blog_cover_1400x800_9378d5f23f.webp" width="600" />
 
-<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
   <strong>Figure 3:</strong> What an infected USB port can do if infected and how it exports phone data to the hacker. Captured from 
   <a href="https://nordlayer.com/blog/juice-jacking-the-hidden-cyber-threat/" target="_blank" style="color: gray;">NordLayer</a>.
 </p>
-
 
 
 
@@ -113,7 +110,7 @@ Protect Yourself:
 ---
 <img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
 
-<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: lightgray;">
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
   <strong>Figure 4:</strong> In Mac settings where to make sure updates are automatic. Captured from 
   <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
 </p>
