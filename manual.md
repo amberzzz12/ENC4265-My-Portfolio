@@ -12,7 +12,7 @@ This manual will help build a secure and resilient remote work environment. It w
 
  ## Table of Contents:
 
-* [Why Security Matters When You Work Remotely](#1.-Why-Security-Matters-When-You-Work-Remotely)
+1. [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
 * [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
 * [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
 * [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
