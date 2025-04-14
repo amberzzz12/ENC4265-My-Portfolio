@@ -3,7 +3,7 @@
 # Manual 
 
 
-## **How to set up a secure remote work environment with Windows, NordVPN, and Dashlane**
+## **How to set up a secure remote work environment with Mac, NordVPN, and Dashlane**
   * For remote workers, freelancers, digital nomads, and anyone working from home!
 
 This manual will help build a secure and resilient remote work environment. It walks through the key threats remote users face—like unsecured Wi-Fi, phishing, and weak passwords—and provides step-by-step instructions on how to protect personal and company data.
@@ -12,7 +12,7 @@ This manual will help build a secure and resilient remote work environment. It w
 
  ## Table of Contents:
 
-* [Why Security Matters When You Work Remotely](#1-Why-Security-Matters-When-You-Work-Remotely)
+* [Why Security Matters When You Work Remotely](#1.-Why-Security-Matters-When-You-Work-Remotely)
 * [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
 * [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
 * [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
