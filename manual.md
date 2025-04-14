@@ -12,7 +12,7 @@ This manual will help build a secure and resilient remote work environment. It w
 
  ## Table of Contents:
 
-1. [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
+* [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
 * [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
 * [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
 * [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
@@ -28,7 +28,7 @@ This manual will help build a secure and resilient remote work environment. It w
 *[Works Cited](#14-Works-Cited)
 ---
 
-# 1. Why Security Matters When You Work Remotely
+## 1. Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
@@ -43,60 +43,53 @@ This manual is your step-by-step guide to securing your remote work setup. Wheth
 
 ## **2. Understanding the Threat Landscape**
 
-* Common Digital Threats for Remote Workers
-Remote workers are particularly vulnerable to a range of cyber threats, many of which can compromise not only their own personal data but also sensitive client and company information. Below are some of the most common threats and how they can impact your remote work environment:
+In the constant evolving world of technology there are online threats everywhere. This section will help clarify you on some of the most frequent risks and easy ways to avoid falling for them. 
 
-* Wi-Fi Snooping (Man-in-the-Middle Attacks)
+Common Digital Threats for Remote Workers
 
-When you work from coffee shops, airports, or any public space, you likely connect to public Wi-Fi networks. While convenient, these networks are often unsecured, which makes them prime targets for hackers.
+1. Public Wi-Fi Risks (Man-in-the-Middle Attacks)
+What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
 
-What Happens?
-In a Man-in-the-Middle (MitM) attack, hackers can intercept the communication between your device and the Wi-Fi network. This means they can potentially see everything you do online—from websites you visit to sensitive information like login credentials and payment details.
+Protect Yourself: 
+* Avoid public Wi-Fi for sensitive tasks (banking, work emails).
+* Use a VPN to encrypt your internet connection.
 
-How to Protect Yourself:
+![alt text](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/605cab5ff8f386ea033ae16c_Man-in-the-Middle%20Attack.jpg)
 
-Avoid Public Wi-Fi for Sensitive Activities: Limit your use of public Wi-Fi for tasks like banking or checking work emails.
-Use a VPN (Virtual Private Network): A VPN encrypts your connection, making it far more difficult for hackers to intercept your data on public networks.
-* Phishing Attempts
+2. Phishing Attacks
+What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
 
-Phishing attacks are one of the most common and dangerous threats faced by remote workers. These attacks are designed to trick you into revealing sensitive information such as usernames, passwords, or financial details, typically through fraudulent emails, websites, or messages.
+Protect Yourself:
+* Check the sender’s email before opening messages.
+* Don’t click links in emails—go directly to the site.
+* Enable Multi-Factor Authentication (MFA) for extra account protection.
 
-What Happens?
-Phishing attacks may appear as legitimate emails or messages, often mimicking trusted organizations (like your employer, a bank, or a popular software company). These communications might ask you to click a link or download an attachment that appears harmless, but it actually contains malicious code that can compromise your security.
 
-How to Protect Yourself:
+3. Infected USB Devices
+What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
 
-Verify Unknown Emails: Always double-check the sender’s email address, especially if the message seems suspicious or unexpected.
-Don’t Click on Links in Emails: Instead, go directly to the website by typing the address into your browser.
-Use Multi-Factor Authentication (MFA): Enable MFA wherever possible. Even if your credentials are stolen, MFA provides an extra layer of protection.
-* Infected USB Devices
+Protect Yourself:
+* Only use trusted USBs.
+* Scan USBs with antivirus software.
+* Turn off auto-run so malware doesn’t launch automatically.
 
-Using external storage devices like USB drives is common for remote workers, whether it’s for transferring files, backing up data, or working offline. However, these devices can be an easy way for malware to infiltrate your system.
 
-What Happens?
-When you plug in a USB device, it can silently install malware on your computer, giving hackers access to your files, passwords, and other sensitive information. This malware can be difficult to detect, and in many cases, it can spread to other connected devices and networks.
+4. Outdated Software (Unpatched Vulnerabilities)
+What Happens: Hackers target old software with known flaws to access your device and data.
 
-How to Protect Yourself:
-
-Avoid Plugging in Unknown USB Devices: Only use USB devices that you trust and have purchased yourself.
-Use Antivirus Software: Ensure your antivirus software scans external devices automatically before opening them.
-Disable Auto-Run on USB Devices: Many malware infections spread through auto-run features. Disable this setting on your device to prevent malware from activating automatically.
-* Unpatched Vulnerabilities (Outdated Software)
-
-Software vulnerabilities are flaws in programs or systems that hackers can exploit to gain unauthorized access to your device. Remote workers are particularly susceptible to these risks if they neglect regular software updates.
-
-What Happens?
-Outdated software, including operating systems, apps, and web browsers, often contains known vulnerabilities that hackers can exploit. Once they gain access to your device, they can steal data, install malicious software, or use your machine for further attacks.
-
-How to Protect Yourself:
-
-Keep Everything Updated: Regularly update your operating system, software, and apps to ensure that known security vulnerabilities are patched.
-Enable Automatic Updates: This ensures that your device stays up to date without requiring manual intervention.
-Use Software That Supports Regular Updates: Choose reputable software and hardware with a strong track record of regular security patches.
-* Understanding These Threats Is Key to Preventing Them
-By familiarizing yourself with the most common digital threats, you can significantly reduce your risk of falling victim to a cyberattack. Staying proactive, whether through simple steps like keeping your software updated or using a VPN, ensures that your remote work environment remains as secure as possible. Security should never be an afterthought—taking the time to implement protective measures now will pay off in the long run, allowing you to focus on your work without worrying about your digital safety.
+Protect Yourself:
+* Update your OS, apps, and browser regularly.
+* Turn on automatic updates.
+* Use trusted software that gets regular security patches.
 
 ## **3. How to Secure Your Devices**
+
+Now that you know some of the most common attacks that can happen to your system let's dive deeper into how to secure your device by downloading NordVPN for Mac users.
+
+What is NordVPN:
+
+
+
 
 Install Antivirus Software
 Why it's important: Antivirus software helps protect your device from malware, viruses, ransomware, and other types of malicious software. With cybercriminals constantly evolving their tactics, a good antivirus tool is your first line of defense.
