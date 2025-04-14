@@ -28,7 +28,7 @@ This manual will help build a secure and resilient remote work environment. It w
 *[Works Cited](#14-Works-Cited)
 ---
 
-## **1. Why Security Matters When You Work Remotely**
+# 1. Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
