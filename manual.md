@@ -12,20 +12,20 @@ This manual will help build a secure and resilient remote work environment. It w
 
  Table of Contents:
 
-* [Why Security Matters When You Work Remotely](1.-why-security-matters-when-you-work-remotely)
-* [Understanding the Threat Landscape](#2-Understanding-the-Threat-Landscape)
-* [How to Secure Your Devices](#3-How-to-Secure-Your-Devices)
-* [How to Secure Your Wi-Fi & Internet](#4-How-to-Secure-Your-Wi-Fi-&-Internet)
-* [How to Use a VPN and Why](#5-How-to-Use-a-VPN-Why)
-* [How to Manage Passwords Like a Pro](#6-How-to-Manage-Passwords-Like-a-Pro)
-* [Protecting Client & Company Data](#7-Protecting-Client-&-Company-Data)
-* [Managing Work on Shared or Public Devices](#8-Managing-Work-on-Shared-or-Public-Devices)
-* [The Importance of Regular Backups](#9-The-Importance-of-Regular-Backups)
-* [Final Checklist for a Fort Knox-Level Setup](#10-Final-Checklist-for-a-Fort-Knox-Level-Setup)
-* [Additional Tools and Resources](#11-Additional-Tools-and-Resources)
-* [Conclusion](#12-Conclusion)
-* [AI Tools Used](#13-AI-Tools-Used)
-* [Works Cited](#14-Works-Cited)
+* [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
+* [Understanding the Threat Landscape](#.2-understanding-the-threat-landscape)
+* [How to Secure Your Devices](#3.-how-to-secure-your-devices)
+* [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
+* [How to Use a VPN and Why](#5.-how-to-use-a-vpn-and-why)
+* [How to Manage Passwords Like a Pro](#6.-how-to-manage-passwords-like-a-pro)
+* [Protecting Client & Company Data](#7.-protecting-client-&-company-data)
+* [Managing Work on Shared or Public Devices](#8.-managing-work-on-shared-or-public-devices)
+* [The Importance of Regular Backups](#9.-the-importance-of-regular-backups)
+* [Final Checklist for a Fort Knox-Level Setup](#10.-final-checklist-for-a-fort-knox-level-setup)
+* [Additional Tools and Resources](#11.-additional-tools-and-resources)
+* [Conclusion](#12.-conclusion)
+* [AI Tools Used](#13.-ai-tools-ssed)
+* [Works Cited](#14.-works-cited)
 ---
 
 # 1. Why Security Matters When You Work Remotely
