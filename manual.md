@@ -12,20 +12,20 @@ This manual will help build a secure and resilient remote work environment. It w
 
  Table of Contents:
 
-* [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
-* [Understanding the Threat Landscape](#.2-understanding-the-threat-landscape)
-* [How to Secure Your Devices](#3.-how-to-secure-your-devices)
-* [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
-* [How to Use a VPN and Why](#5.-how-to-use-a-vpn-and-why)
-* [How to Manage Passwords Like a Pro](#6.-how-to-manage-passwords-like-a-pro)
-* [Protecting Client & Company Data](#7.-protecting-client-&-company-data)
-* [Managing Work on Shared or Public Devices](#8.-managing-work-on-shared-or-public-devices)
-* [The Importance of Regular Backups](#9.-the-importance-of-regular-backups)
-* [Final Checklist for a Fort Knox-Level Setup](#10.-final-checklist-for-a-fort-knox-level-setup)
-* [Additional Tools and Resources](#11.-additional-tools-and-resources)
-* [Conclusion](#12.-conclusion)
-* [AI Tools Used](#13.-ai-tools-ssed)
-* [Works Cited](#14.-works-cited)
+1. [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
+2. [Understanding the Threat Landscape](#.2-understanding-the-threat-landscape)
+3. [How to Secure Your Devices](#3.-how-to-secure-your-devices)
+4. [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
+5. [How to Use a VPN and Why](#5.-how-to-use-a-vpn-and-why)
+6. [How to Manage Passwords Like a Pro](#6.-how-to-manage-passwords-like-a-pro)
+7. [Protecting Client & Company Data](#7.-protecting-client-&-company-data)
+8. [Managing Work on Shared or Public Devices](#8.-managing-work-on-shared-or-public-devices)
+9. [The Importance of Regular Backups](#9.-the-importance-of-regular-backups)
+10. [Final Checklist for a Fort Knox-Level Setup](#10.-final-checklist-for-a-fort-knox-level-setup)
+11. [Additional Tools and Resources](#11.-additional-tools-and-resources)
+12. [Conclusion](#12.-conclusion)
+13. [AI Tools Used](#13.-ai-tools-ssed)
+14. [Works Cited](#14.-works-cited)
 ---
 
 # 1. Why Security Matters When You Work Remotely
@@ -41,13 +41,13 @@ This manual is your step-by-step guide to securing your remote work setup. Wheth
 * Set up reliable backup systems
 
 
-## **2. Understanding the Threat Landscape**
+# 2. Understanding the Threat Landscape
 
 In the constant evolving world of technology there are online threats everywhere. This section will help clarify you on some of the most frequent risks and easy ways to avoid falling for them. 
 
 Common Digital Threats for Remote Workers:
 
-1. Public Wi-Fi Risks (Man-in-the-Middle Attacks)
+- Public Wi-Fi Risks (Man-in-the-Middle Attacks)
 What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
 
 Protect Yourself: 
@@ -63,7 +63,7 @@ Protect Yourself:
 
 
 
-2. Phishing Attacks
+- Phishing Attacks
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
 
 Protect Yourself:
@@ -81,7 +81,7 @@ Protect Yourself:
 
 
 
-3. Infected USB Devices
+- Infected USB Devices
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
 
 Protect Yourself:
@@ -99,7 +99,7 @@ Protect Yourself:
 
 
 
-4. Outdated Software (Unpatched Vulnerabilities)
+- Outdated Software (Unpatched Vulnerabilities)
 What Happens: Hackers target old software with known flaws to access your device and data.
 
 Protect Yourself:
@@ -118,7 +118,7 @@ Protect Yourself:
 ---
 
 
-## **3. How to Secure Your Devices**
+# 3. How to Secure Your Devices
 
 Now that you know some of the most common attacks that can happen to your system let's dive deeper into how to secure your device by downloading NordVPN for Mac users.
 
@@ -192,7 +192,7 @@ Complete the Setup:
 After encryption is complete, your files will be secure, and only those with the password (or recovery key) can access the data.
 
 
-## **4. How to Secure Your Wi-Fi & Internet**
+# 4. How to Secure Your Wi-Fi & Internet
 
 Change Default Router Password
 Why it’s important: Many routers come with a default username and password (like “admin” for both). These defaults are widely known and can easily be found by attackers. If you leave your router using these default settings, it’s like leaving the front door wide open for anyone to walk in.
@@ -245,7 +245,7 @@ Reboot the Router (if necessary):
 Some routers may require a reboot to finalize changes to remote access settings.
 
 
-## **5. How to Use a VPN and Why**
+# 5. How to Use a VPN and Why
 
 Why You Need a VPN (and What It Does)
 1. Hides Your IP Address:
@@ -292,7 +292,7 @@ Always Use a Kill Switch: Many VPNs include a kill switch feature, which automat
 Stay Connected to a VPN: If your VPN app allows it, you can set it to automatically connect when your device starts. This adds an extra layer of security, ensuring that you’re always protected, even if you forget to manually connect to the VPN.
 
 
-## **6. How to Manage Passwords Like a Pro**
+# 6. How to Manage Passwords Like a Pro
 
 Use a Password Manager
 What it is:
@@ -329,7 +329,7 @@ Why not use SMS for 2FA? While SMS (text messages) used to be the go-to option f
 
 
 
-## **7. Protecting Client & Company Data**
+# 7. Protecting Client & Company Data
 
  Use Secure Cloud Services
 What it is:
@@ -365,7 +365,7 @@ How it works:
 * Editor Access: They can make changes to the document.
 * Link Sharing: When sharing links, you can select who has access and whether they can just view or also edit the file.
 
-## **8. Managing Work on Shared or Public Devices**
+# 8. Managing Work on Shared or Public Devices
 
 Use private/incognito mode
 Always log out
@@ -373,7 +373,7 @@ Never save passwords on public browsers
 Avoid using unknown USB drives
 
 
-## **9. The Importance of Regular Backups**
+# 9. The Importance of Regular Backups**
 
 Use the 3-2-1 Rule:
 
@@ -384,7 +384,7 @@ Recommended tools: Backblaze, Carbonite, Google One
 
 
 
-## **10. Final Checklist for a Fort Knox-Level Setup**
+# 10. Final Checklist for a Fort Knox-Level Setup
 
 * Antivirus installed & running
 * VPN active
@@ -402,13 +402,13 @@ Have I Been Pwned (Check if your info is compromised)
 EFF’s Surveillance Self-Defense (https://ssd.eff.org)
 
 ---
-## **12. Conclusion**
+# 12. Conclusion
 
 Securing your remote setup doesn’t have to be overwhelming. Start with the basics—VPN, passwords, antivirus—and build from there. With each step, you’re making it harder for intruders and easier to focus on doing great work from anywhere.
 
 
 ---
-## **13. AI Tools Used**
+# 13. AI Tools Used
 
 This manual was created using the following tools:
 
@@ -417,7 +417,7 @@ ChatGPT 4o (OpenAI, GPT-4)
 All content was enhanced with the above tool
 
 ---
-## **14. Works Cited**
+# 14. Works Cited
 
 NordVPN. (n.d.). What is a VPN? Retrieved from https://nordvpn.com
 
