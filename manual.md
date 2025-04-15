@@ -189,7 +189,9 @@ How to install:
 * Choose a preferred VPN protocol (e.g., NordLynx or OpenVPN).
 * Manage notifications and kill switch options.
 
-Congrats you just secured your NordVPN! This will ensure you have a safe connection in the outside world. It's important to not stop here though. Continue to follow along to learn how you can make sure you keep a secure working environment.
+Congrats you just secured your NordVPN!
+
+This will ensure you have a safe connection in the outside world. It's important to not stop here though. Continue to follow along to learn how you can make sure you keep a secure working environment.
 
 # How to Secure Your Wi-Fi & Internet
 
@@ -246,9 +248,12 @@ Why it matters: Encryption scrambles your internet traffic so others can’t rea
 
 How to check and change it:
 
-1) Log in to your router settings (like before).
+1) Log in to your router settings (like before)
+  
 2) Open the Wireless or Wi-Fi Settings section
+   
 3) Look for something like Wireless Security, Encryption Type, or Network Security.
+  
 4) Choose WPA3 (if available), or WPA2
    *If you see WPA3, select it—it’s the newest and most secure.
    *If your router doesn’t support WPA3, WPA2 is still safe for most people.
