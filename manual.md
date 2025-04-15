@@ -11,12 +11,13 @@ This manual will help build a secure and resilient remote work environment. It w
 ---
 
  Table of Contents:
+ 
 1. [Why Security Matters When You Work Remotely](#why-security-matters-when-you-work-remotely)
 2. [Understanding the Threat Landscape](#understanding-the-threat-landscape)
 3. [How to Secure Your Devices](#how-to-secure-your-devices)
 4. [How to Secure Your Wi-Fi & Internet](#how-to-secure-your-wi-fi-&-internet)
-5. [How to Use a VPN and Why](#how-to-use-a-vpn-and-why)
-6. [How to Manage Passwords Like a Pro](#how-to-manage-passwords-like-a-pro)
+5. [How to Manage Passwords Like a Pro](#how-to-manage-passwords-like-a-pro)
+6. [How to Use Dashlane on a MacOS](#how-to-use-dashlane-on-a-macos)
 7. [Protecting Client & Company Data](#protecting-client-&-company-data)
 8. [Managing Work on Shared or Public Devices](#managing-work-on-shared-or-public-devices)
 9. [The Importance of Regular Backups](#the-importance-of-regular-backups)
@@ -25,6 +26,7 @@ This manual will help build a secure and resilient remote work environment. It w
 12. [Conclusion](#conclusion)
 13. [AI Tools Used](#ai-tools-ssed)
 14. [Works Cited](#works-cited)
+
 ---
 
 # Why Security Matters When You Work Remotely
@@ -127,7 +129,19 @@ Now that you know some of the most common attacks that can happen to your system
 
 What is NordVPN: A virtual private network (VPN) service that encrypts your internet traffic, masks your IP address, and allows you to connect to servers in different locations, providing enhanced online privacy and security.
 
-Why is it important: It enhances online privacy and security by encrypting internet traffic, masking your IP address, and offering a no-logs policy. It also helps bypass geoblocks, providing access to geo-restricted content. Additionally, NordVPN includes features like Threat Protection and Dark Web Monitor to safeguard against online threats and potential data breaches. 
+Why You Need a VPN (and What It Does):
+
+**Hides Your IP Address:**
+   
+Why it’s important: Your IP address reveals your physical location and identity online. When you connect to the internet without a VPN, websites and services can see your IP address, which can be used to track your online behavior or even access your private information. By hiding your IP address, a VPN helps protect your privacy.
+
+**Encrypts Your Traffic:**
+
+Why it’s important: VPNs use encryption to secure the data traveling between your device and the internet. This means that even if someone intercepts your internet traffic, they won’t be able to read it. This is especially important when you’re using public Wi-Fi networks (like at coffee shops or airports), which are often unsecured and easy targets for hackers.
+
+**Protects on Public Networks:**
+
+Why it’s important: Public Wi-Fi networks are inherently risky because they don’t require passwords or strong security measures. Cybercriminals often lurk on public Wi-Fi to intercept data or perform attacks. A VPN helps secure your connection on these networks by encrypting your traffic and hiding your IP address, making it much harder for attackers to snoop on you.
 
 How to install:
 
@@ -295,88 +309,140 @@ How to turn it off:
 
 
 
-
-# How to Use a VPN and Why
-
-Why You Need a VPN (and What It Does)
-1. Hides Your IP Address:
-   
-Why it’s important: Your IP address reveals your physical location and identity online. When you connect to the internet without a VPN, websites and services can see your IP address, which can be used to track your online behavior or even access your private information. By hiding your IP address, a VPN helps protect your privacy.
-
-2. Encrypts Your Traffic:
-
-Why it’s important: VPNs use encryption to secure the data traveling between your device and the internet. This means that even if someone intercepts your internet traffic, they won’t be able to read it. This is especially important when you’re using public Wi-Fi networks (like at coffee shops or airports), which are often unsecured and easy targets for hackers.
-
-3. Protects on Public Networks:
-
-Why it’s important: Public Wi-Fi networks are inherently risky because they don’t require passwords or strong security measures. Cybercriminals often lurk on public Wi-Fi to intercept data or perform attacks. A VPN helps secure your connection on these networks by encrypting your traffic and hiding your IP address, making it much harder for attackers to snoop on you.
-
-How to Use a VPN
-
-1. Choose a VPN Provider:
-Why it’s important: Not all VPNs are created equal, so it’s crucial to choose a reliable and trusted provider. Some popular options include:
-
-NordVPN: Known for its fast speeds and strong security features.
-ProtonVPN: A good choice for privacy-focused individuals, offering strong encryption and a no-logs policy.
-ExpressVPN: Provides easy-to-use apps and fast servers worldwide.
-How to choose: Look for features like no-logs policies, strong encryption, server locations near your region, and high speed for minimal disruption in your internet usage.
-
-2. Install the VPN App:
-Why it’s important: Installing the app makes it easy to activate the VPN on your device. Most VPN services offer user-friendly apps for Windows, macOS, Android, iOS, and even browser extensions. Installing the app ensures that you can securely connect to the internet at any time.
-
-How to install:
-* Download the app from the official website or app store for your device.
-* Run the installation wizard, follow the prompts, and sign up or log into your VPN account.
-* Complete the setup, which may include setting preferences like which VPN server to connect to and whether to automatically connect on startup.
-* Log In and Connect Before Starting Work:
-
-
-How to connect:
-* Open the VPN app and log in with your account credentials.
-* Choose a server based on your needs. For example, you might choose a server in your home country for a local IP address or in a different country for greater anonymity.
-* Click Connect to establish the VPN connection. Once connected, your internet traffic will be encrypted, and your IP address will be masked.
-
-
-* Additional VPN Tips:
-Use Split Tunneling (if needed): Some VPN services offer a split tunneling feature that allows you to route some traffic through the VPN while leaving other traffic unaffected. This can help improve speed if you’re only concerned about securing specific apps or websites.
-Always Use a Kill Switch: Many VPNs include a kill switch feature, which automatically disconnects your internet if the VPN connection drops. This ensures that your data is never transmitted without encryption.
-Stay Connected to a VPN: If your VPN app allows it, you can set it to automatically connect when your device starts. This adds an extra layer of security, ensuring that you’re always protected, even if you forget to manually connect to the VPN.
-
-
 # How to Manage Passwords Like a Pro
 
-Use a Password Manager
-What it is:
+Now that we have discussed how to secure your network and VPN it is time to dive deeper into the importance of passwords. A password manager is like a super smart digital safe that holds all your usernames and passwords in one protected spot. Instead of trying to remember dozens of different logins, you only need to remember one strong master password—the password manager takes care of the rest.
 
-A password manager is like a digital safe for your passwords. It securely stores all your login information (for websites, apps, etc.) in one place.
+**Why You Should Use One**
 
-Why you need it:
+Let’s face it—trying to create and remember a strong, unique password for every single website or app is really hard. That’s why many people end up using the same password everywhere, or choosing ones that are easy to guess (like "abc123" or their pet’s name).
 
-Instead of trying to remember complex passwords for all your accounts (which is almost impossible), a password manager will do the hard work for you. It generates strong, unique passwords for every site and keeps them stored safely. This way, you only need to remember one master password to access everything else.
+But that’s risky—if a hacker gets into one of your accounts, they could easily break into all the others that use the same password.
 
-How it works:
+That’s where a password manager comes in to save the day:
 
-* Store passwords: You can save your passwords for different accounts in the password manager.
-* Generate strong passwords: It can create random, hard-to-crack passwords that are way stronger than what you’d come up with on your own.
-* Autofill login info: It automatically fills in your login details when you visit websites, making it super easy and secure to log in.
+* It keeps you safer online
+  *Each of your accounts gets a unique, strong password, so if one site is hacked, your other accounts are still safe.
+* It saves time
+  * No more typing out passwords or struggling to remember what you used. The manager can fill in your login info for you automatically.
+* It creates strong passwords for you
+  * Password managers can instantly generate random, complex passwords that are super hard to guess—way better than anything we could come up with ourselves.
+* It works across your devices
+  * Whether you’re on your laptop, phone, or tablet, your saved passwords are available when you need them.
+* You can store more than just passwords
+  * Many password managers also let you save credit card info, notes, Wi-Fi logins, and even copies of important documents—all encrypted and secure.
+  
+* Common Features You’ll Find:
+  * Password vault – A locked area where all your logins are stored.
+  * Autofill – Automatically fills in usernames and passwords when you visit a site or open an app.
+  * Password generator – Suggests strong, unique passwords when creating new accounts.
+  * Security alerts – Warns you if one of your saved accounts is part of a known data breach.
+  * Two-factor support – Some managers can even help manage your 2FA codes.
 
-Popular Password Managers:
+Popular and Trusted Options:
 
-- Dashlane
-- Bitwarden
-- 1Password
-- Enable Two-Factor Authentication (2FA)
+* Dashlane
+* Bitwarden
+* 1Password
+* NordPass
 
-What it is:
-Two-Factor Authentication (2FA) adds an extra layer of security to your accounts. Instead of just using your password, 2FA requires two forms of verification before you can log in: something you know (your password) and something you have (like your phone or an app).
 
-Why you need it: Even if someone manages to steal your password, they still won’t be able to access your account because they would also need access to your second verification method (e.g., a code sent to your phone or an app). This makes it much harder for hackers to get into your accounts.
 
-How it works: Enable 2FA on your accounts (you can usually find this option in the security settings).
-When you log in, you'll enter your password as usual.
-The service will then ask for a second factor—a code sent to your phone or generated by an authenticator app like Google Authenticator or Authy. You enter that code, and boom, you’re logged in! Even if someone steals your password, they can’t get in without that code.
+# How to Use Dashlane on a MacOS
 
-Why not use SMS for 2FA? While SMS (text messages) used to be the go-to option for 2FA, it’s not as secure anymore. Hackers can sometimes intercept your texts. Instead, use an authenticator app like Google Authenticator or Authy. These apps generate codes that are more secure and not vulnerable to the same threats as SMS.
+This manual will teach you about the password manager: Dashlane! 
+
+What is it? 
+
+Dashlane is a password manager and digital wallet application that helps users securely store, manage, and access their digital identities, including passwords, payments, and personal information. 
+
+Why Dashlane? 
+
+Dashlane uses the strongest encryption available and a zero-knowledge architecture, which means that only you have access to your data. Your logins and personal information are always “encrypted,” even when we store your data on our servers. Encryption scrambles your data so no one can read it.
+
+Let's get started to help continue to secure your remote workspace!
+
+**1) Download Dashlane**
+
+   * Go to www.dashlane.com and click on the “Get Dashlane” button.
+   * Choose the option to download for Mac.
+   * Once the file downloads, open it and follow the instructions to install the app on your computer.
+
+<img src="https://support.dashlane.com/hc/article_attachments/22354629608978" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 13:</strong> Screenshot of the Dashlane homepage showing the Welcome page. Captured from 
+  <a href="https://support.dashlane.com/hc/en-us/articles/115005432325-Get-started-with-the-Dashlane-web-app-and-extension" style="color: gray;">DashLane Support</a>.
+</p>
+
+
+**2) Create Your Dashlane Account**
+
+     * Open the Dashlane app after it installs.
+     * Click “Create Account.
+     * Enter your email address and choose a strong master password—this is the only password you’ll ever need to remember, so make it good!
+     * Use a mix of uppercase letters, lowercase letters, numbers, and special symbols.
+     * Make it something memorable to you, but hard for others to guess.
+*Tip: Dashlane will let you know if your master password is strong enough.* 
+
+
+<img src="https://cdn.comparitech.com/wp-content/uploads/2016/05/start-account.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 14:</strong> The “Create Account” screen with the fields for email and master password. Captured from 
+  <a href="https://www.comparitech.com/password-managers/reviews/dashlane-review/" style="color: gray;">Comparitech</a>.
+</p>
+
+
+**3) Save Your First Password**
+
+     * Once your account is created, Dashlane will ask if you want to import existing passwords (from your browser) or manually add a new one.
+     * Try adding a password manually first:
+     * Click “+ Add new item” or go to the Passwords tab.
+     * Enter the website, your username, and your password.
+     * Click Save.
+         * This is great for adding things like your email, banking, or social media logins right away.
+
+<img src="https://support.dashlane.com/hc/article_attachments/22811782969106" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 16:</strong> A way to organize your logins and secure notes with collections. Captured from 
+  <a href="https://support.dashlane.com/hc/en-us/articles/12131325346578-Organize-your-logins-and-Secure-Notes-with-Collections" style="color: gray;">DashLane Support</a>.
+</p>
+
+
+**4) Install the Dashlane Browser Extension**
+     * Dashlane works best when it’s added to your browser (like Safari, Chrome, or Firefox).
+     * After setting up your account, it will suggest installing the browser extension.
+     * Follow the on-screen instructions to add it.
+        * This lets Dashlane autofill your passwords automatically when you visit websites.
+
+
+
+<img src="https://support.dashlane.com/hc/article_attachments/21010663072658" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 16:</strong> Dashlane icon in the browser bar or the installation page for the extension. Captured from 
+  <a href="https://support.dashlane.com/hc/en-us/articles/115005432325-Get-started-with-the-Dashlane-web-app-and-extension" style="color: gray;">DashLane Support</a>.
+</p>
+
+
+
+**5) Let Dashlane Do the Work**
+
+Now that everything is set up, you don’t have to worry about remembering passwords anymore.
+
+    * When you visit a login page, Dashlane will offer to fill in your username and password.
+    * When you create a new account somewhere, Dashlane will offer to generate a strong password for you.
+    * You can also access your vault at any time by opening the Dashlane app.
+
+
+<img src="https://www.dashlane.com/_next/image?url=https%3A%2F%2Fripleyprd.wpengine.com%2Fwp-content%2Fuploads%2F2023%2F11%2Fhome-features-autofill%403x-3.png&w=3840&q=75" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 17:</strong> Dashlane automatically filling in a login form on a website. Captured from 
+  <a href="https://www.dashlane.com/personal-password-manager/autofill" style="color: gray;">DashLane</a>.
+</p>
 
 
 
