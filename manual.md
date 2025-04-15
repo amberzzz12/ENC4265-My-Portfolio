@@ -122,74 +122,69 @@ Protect Yourself:
 
 Now that you know some of the most common attacks that can happen to your system let's dive deeper into how to secure your device by downloading NordVPN for Mac users.
 
-What is NordVPN:
+What is NordVPN: A virtual private network (VPN) service that encrypts your internet traffic, masks your IP address, and allows you to connect to servers in different locations, providing enhanced online privacy and security.
+
+Why is it important: It enhances online privacy and security by encrypting internet traffic, masking your IP address, and offering a no-logs policy. It also helps bypass geoblocks, providing access to geo-restricted content. Additionally, NordVPN includes features like Threat Protection and Dark Web Monitor to safeguard against online threats and potential data breaches. 
+
+How to install:
+
+1. Download and Install the App
+* Open the App Store on your Mac.
+* In the search bar, type "NordVPN" and find the official app.
+* Click "Get" and then "Install" to download it.
+* Once installed, launch the app from Launchpad or Applications.
+
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 5:</strong> In Mac settings where to make sure updates are automatic. Captured from 
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+</p>
 
 
+2. Log In or Sign Up
+* When the app opens, click “Log In” if you already have a NordVPN account.
+* If you don’t have an account, click “Sign Up” to create one.
+* You’ll be redirected to a browser window to complete the login process securely.
+* After logging in, return to the app to continue setup.
+
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 6:</strong> In Mac settings where to make sure updates are automatic. Captured from 
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+</p>
+
+3. Grant Permissions
+* The app may ask for permissions to add VPN configurations to your device.
+* Click "Allow" when prompted.
+* You may also need to enter your Mac’s admin password to authorize changes.
+
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 7:</strong> In Mac settings where to make sure updates are automatic. Captured from 
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+</p>
 
 
-Install Antivirus Software
-Why it's important: Antivirus software helps protect your device from malware, viruses, ransomware, and other types of malicious software. With cybercriminals constantly evolving their tactics, a good antivirus tool is your first line of defense.
+4. Connect to NordVPN
+* To connect quickly, click “Quick Connect”—this chooses the fastest available server based on your location.
+* To select a specific country or server type (like Double VPN or P2P), click the search bar or browse the server list.
 
-How to Install and Use Antivirus Software:
 
-Choose a Reliable Antivirus Program:
-Malwarebytes – Great for scanning and removing malware without slowing down your device. It’s particularly useful for real-time protection.
-Bitdefender – Known for its robust protection and light system footprint, Bitdefender is an all-around excellent choice for preventing malware and phishing attacks.
-Norton – Norton offers comprehensive protection with real-time monitoring, firewall features, and identity theft protection.
-Download and Install:
-Visit the official website of the antivirus software you’ve chosen, download the latest version, and follow the installation instructions. Ensure that you are downloading from the official website to avoid counterfeit software.
-Activate Real-Time Protection:
-Make sure that real-time scanning is enabled, which constantly monitors files, programs, and websites you access to detect potential threats.
-Schedule Regular Scans:
-Set up your antivirus to perform regular, automatic scans to catch any threats that may have slipped past.
-Keep It Up to Date:
-Cyber threats evolve quickly, so ensure that your antivirus software stays up to date with the latest definitions. You can typically set your antivirus to update automatically.
-* Enable Auto Updates for Your OS, Apps, and Browser
-Why it's important: Security vulnerabilities in your operating system (OS), apps, and browsers are often exploited by hackers. Keeping your software updated ensures you’re protected from known vulnerabilities.
+<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
 
-How to Enable Auto Updates:
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 8:</strong> In Mac settings where to make sure updates are automatic. Captured from 
+  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+</p>
 
-For macOS:
-
-System Preferences > Software Update:
-Open System Preferences, then click Software Update.
-Check the box for Automatically keep my Mac up to date.
-Click Advanced and ensure all options (such as app updates and security updates) are selected.
-For Windows 10:
-
-Settings > Update & Security > Windows Update:
-Go to Settings, then click Update & Security.
-Under Windows Update, click Advanced options.
-Turn on Automatic Updates to get the latest security patches as soon as they're released.
-For Browsers (Chrome, Firefox, etc.):
-
-Chrome: Chrome automatically updates itself by default, but you can check if updates are pending by clicking the three dots in the top-right corner > Help > About Google Chrome. Chrome will automatically update if necessary.
-Firefox: Go to Menu > Help > About Firefox. It will automatically check for updates and install them.
-Safari: Updates for Safari are included with macOS software updates.
-* Use Device Encryption (BitLocker for Windows, FileVault for Mac)
-Why it's important: Device encryption protects the data on your computer by converting it into unreadable code that can only be accessed with the correct password or decryption key. This is especially important if your device is lost or stolen.
-
-For Windows (BitLocker):
-
-Open Control Panel and go to System and Security > BitLocker Drive Encryption.
-Enable BitLocker:
-Click Turn On BitLocker next to the drive you want to encrypt (typically your C: drive).
-Choose whether you want to use a password or a USB drive as your unlocking method.
-Backup Recovery Key:
-You’ll be prompted to save a recovery key, which is important in case you forget your password.
-Encrypt the Drive:
-After choosing your preferences, click Start Encrypting. The process might take some time, depending on the size of your drive.
-For macOS (FileVault):
-
-Go to System Preferences > Security & Privacy > FileVault.
-Enable FileVault:
-Click the lock icon to make changes and then select Turn On FileVault.
-Choose Recovery Options:
-You’ll be asked whether to use your Apple ID or create a recovery key in case you forget your password.
-Encryption Process:
-Once you confirm your selection, the system will start encrypting your disk. This process could take several hours, depending on the size of your hard drive.
-Complete the Setup:
-After encryption is complete, your files will be secure, and only those with the password (or recovery key) can access the data.
+5. Optional: Adjust App Settings
+* Open the Settings panel to:
+* Enable Auto-connect on startup.
+* Choose a preferred VPN protocol (e.g., NordLynx or OpenVPN).
+* Manage notifications and kill switch options.
 
 
 # 4. How to Secure Your Wi-Fi & Internet
