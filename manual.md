@@ -46,7 +46,7 @@ In the constant evolving world of technology there are online threats everywhere
 
 Common Digital Threats for Remote Workers:
 
-1) Public Wi-Fi Risks (Man-in-the-Middle Attacks)
+**1) Public Wi-Fi Risks (Man-in-the-Middle Attacks)**
 What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
 
 Protect Yourself: 
@@ -62,7 +62,7 @@ Protect Yourself:
 
 
 
-2) Phishing Attacks
+**2) Phishing Attacks**
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
 
 Protect Yourself:
@@ -80,7 +80,7 @@ Protect Yourself:
 
 
 
-3) Infected USB Devices
+**3) Infected USB Devices**
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
 
 Protect Yourself:
@@ -98,7 +98,7 @@ Protect Yourself:
 
 
 
-4) Outdated Software (Unpatched Vulnerabilities)
+**4) Outdated Software (Unpatched Vulnerabilities)**
 What Happens: Hackers target old software with known flaws to access your device and data.
 
 Protect Yourself:
@@ -273,10 +273,10 @@ How to turn it off:
 * Turn off Remote Access
 * Uncheck or toggle off the setting that allows access from outside your home network.
 
-<img src="https://discussions.apple.com/content/attachment/99d68810-b6cb-4a3d-a462-ada1f1c3c2d8" width="600" />
+<img src="1.png" width="600" />
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
-  <strong>Figure 11:</strong> Remote access option turned off on MacOS system settings. Captured from 
+  <strong>Figure 12:</strong> Remote access option turned off on MacOS system settings. Captured from 
   <a  style="color: gray;">Amber Zeqo</a>.
 </p>
 
