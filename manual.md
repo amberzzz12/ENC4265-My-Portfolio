@@ -11,7 +11,7 @@ This manual will help build a secure and resilient remote work environment. It w
 ---
 
  Table of Contents:
-1. [Why Security Matters When You Work Remotely](why-security-matters-when-you-work-remotely)
+1. [Why Security Matters When You Work Remotely](#why-security-matters-when-you-work-remotely)
 2. [Understanding the Threat Landscape](#.2-understanding-the-threat-landscape)
 3. [How to Secure Your Devices](#3.-how-to-secure-your-devices)
 4. [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
@@ -46,7 +46,7 @@ In the constant evolving world of technology there are online threats everywhere
 
 Common Digital Threats for Remote Workers:
 
-- Public Wi-Fi Risks (Man-in-the-Middle Attacks)
+1) Public Wi-Fi Risks (Man-in-the-Middle Attacks)
 What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
 
 Protect Yourself: 
@@ -62,7 +62,7 @@ Protect Yourself:
 
 
 
-- Phishing Attacks
+2) Phishing Attacks
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
 
 Protect Yourself:
@@ -80,7 +80,7 @@ Protect Yourself:
 
 
 
-- Infected USB Devices
+3) Infected USB Devices
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
 
 Protect Yourself:
@@ -98,7 +98,7 @@ Protect Yourself:
 
 
 
-- Outdated Software (Unpatched Vulnerabilities)
+4) Outdated Software (Unpatched Vulnerabilities)
 What Happens: Hackers target old software with known flaws to access your device and data.
 
 Protect Yourself:
@@ -127,7 +127,7 @@ Why is it important: It enhances online privacy and security by encrypting inter
 
 How to install:
 
-(1) Download and Install the App
+1) Download and Install the App
 * Open the App Store on your Mac.
 * In the search bar, type "NordVPN" and find the official app.
 * Click "Get" and then "Install" to download it.
@@ -141,7 +141,7 @@ How to install:
 </p>
 
 
-(2) Log In or Sign Up
+2) Log In or Sign Up
 * When the app opens, click “Log In” if you already have a NordVPN account.
 * If you don’t have an account, click “Sign Up” to create one.
 * You’ll be redirected to a browser window to complete the login process securely.
@@ -154,7 +154,7 @@ How to install:
   <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
-(3) Grant Permissions
+3) Grant Permissions
 * The app may ask for permissions to add VPN configurations to your device.
 * Click "Allow" when prompted.
 * You may also need to enter your Mac’s admin password to authorize changes.
@@ -167,7 +167,7 @@ How to install:
 </p>
 
 
-(4) Connect to NordVPN
+4) Connect to NordVPN
 * To connect quickly, click “Quick Connect”—this chooses the fastest available server based on your location.
 * To select a specific country or server type (like Double VPN or P2P), click the search bar or browse the server list.
 
@@ -179,7 +179,7 @@ How to install:
   <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
-(5) Optional: Adjust App Settings
+5) Optional: Adjust App Settings
 * Open the Settings panel to:
 * Enable Auto-connect on startup.
 * Choose a preferred VPN protocol (e.g., NordLynx or OpenVPN).
