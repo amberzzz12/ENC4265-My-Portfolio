@@ -11,23 +11,23 @@ This manual will help build a secure and resilient remote work environment. It w
 ---
 
  Table of Contents:
-1. [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
-2. [Understanding the Threat Landscape](#2.-understanding-the-threat-landscape)
-3. [How to Secure Your Devices](#3.-how-to-secure-your-devices)
-4. [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
-5. [How to Use a VPN and Why](#5.-how-to-use-a-vpn-and-why)
-6. [How to Manage Passwords Like a Pro](#6.-how-to-manage-passwords-like-a-pro)
-7. [Protecting Client & Company Data](#7.-protecting-client-&-company-data)
-8. [Managing Work on Shared or Public Devices](#8.-managing-work-on-shared-or-public-devices)
-9. [The Importance of Regular Backups](#9.-the-importance-of-regular-backups)
-10. [Final Checklist for a Fort Knox-Level Setup](#10.-final-checklist-for-a-fort-knox-level-setup)
-11. [Additional Tools and Resources](#11.-additional-tools-and-resources)
-12. [Conclusion](#12.-conclusion)
-13. [AI Tools Used](#13.-ai-tools-ssed)
-14. [Works Cited](#14.-works-cited)
+1. [Why Security Matters When You Work Remotely](#-why-security-matters-when-you-work-remotely)
+2. [Understanding the Threat Landscape](#-understanding-the-threat-landscape)
+3. [How to Secure Your Devices](#-how-to-secure-your-devices)
+4. [How to Secure Your Wi-Fi & Internet](#-how-to-secure-your-wi-fi-&-internet)
+5. [How to Use a VPN and Why](#-how-to-use-a-vpn-and-why)
+6. [How to Manage Passwords Like a Pro](#-how-to-manage-passwords-like-a-pro)
+7. [Protecting Client & Company Data](#-protecting-client-&-company-data)
+8. [Managing Work on Shared or Public Devices](#-managing-work-on-shared-or-public-devices)
+9. [The Importance of Regular Backups](#-the-importance-of-regular-backups)
+10. [Final Checklist for a Fort Knox-Level Setup](#-final-checklist-for-a-fort-knox-level-setup)
+11. [Additional Tools and Resources](#-additional-tools-and-resources)
+12. [Conclusion](#-conclusion)
+13. [AI Tools Used](#-ai-tools-ssed)
+14. [Works Cited](#-works-cited)
 ---
 
-# 1. Why Security Matters When You Work Remotely
+# Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
@@ -40,7 +40,7 @@ This manual is your step-by-step guide to securing your remote work setup. Wheth
 * Set up reliable backup systems
 
 
-# 2. Understanding the Threat Landscape
+# Understanding the Threat Landscape
 
 In the constant evolving world of technology there are online threats everywhere. This section will help clarify you on some of the most frequent risks and easy ways to avoid falling for them. 
 
@@ -117,9 +117,9 @@ Protect Yourself:
 ---
 
 
-# 3. How to Secure Your Devices
+# How to Secure Your Devices
 
-Now that you know some of the most common attacks that can happen to your system let's dive deeper into how to secure your device by downloading NordVPN for Mac users.
+Now that you know some of the most common attacks that can happen to your system let's dive deeper into how to secure your device by downloading NordVPN for MacOS users.
 
 What is NordVPN: A virtual private network (VPN) service that encrypts your internet traffic, masks your IP address, and allows you to connect to servers in different locations, providing enhanced online privacy and security.
 
@@ -187,60 +187,107 @@ How to install:
 
 Congrats you just secured your NordVPN! This will ensure you have a safe connection in the outside world. It's important to not stop here though. Continue to follow along to learn how you can make sure you keep a secure working environment.
 
-# 4. How to Secure Your Wi-Fi & Internet
+# How to Secure Your Wi-Fi & Internet
 
-Change Default Router Password
-Why it’s important: Many routers come with a default username and password (like “admin” for both). These defaults are widely known and can easily be found by attackers. If you leave your router using these default settings, it’s like leaving the front door wide open for anyone to walk in.
+Your router is the heart of your internet connection. It connects all your devices—phones, laptops, smart TVs—to the web. But if it’s not secured properly, hackers can easily sneak in, steal your data, or slow down your network. Thankfully, locking things down only takes a few steps.
 
-How to Change Your Router Password:
+Let’s walk through the top 3 ways to keep your home Wi-Fi safe.
 
-Log into Your Router:
-Open a browser and enter your router's IP address in the address bar (usually 192.168.1.1 or 192.168.0.1).
-Enter the default login credentials (you can find these on the bottom of the router or in the manual; common defaults are “admin” for both username and password).
-Navigate to the Admin Settings:
-Once logged in, look for an option like System Settings, Administration, or Security in the menu.
-Change the Password:
-Find the option to change your admin password. Create a strong, unique password that is difficult to guess. Use a mix of upper and lowercase letters, numbers, and special characters.
-Tip: A good password is at least 12 characters long and does not include easily guessable information (e.g., “password123” or “admin”).
-Save and Log Out:
-After changing the password, be sure to save the settings, then log out of the router interface.
-Important: Don’t forget the new password—you’ll need it to access your router settings in the future.
-* Use WPA3 or WPA2 Encryption
-Why it’s important: WPA2 (Wi-Fi Protected Access 2) and WPA3 are the encryption protocols that secure the communication between your router and connected devices. Using outdated encryption like WEP (Wired Equivalent Privacy) leaves your Wi-Fi network vulnerable to hacking, as WEP can be easily cracked.
+**1) Change Your Router’s Default Login Info**
 
-How to Enable WPA3 or WPA2 Encryption:
+Why it matters: Most routers come with a factory-set username and password like admin for both fields. These are the same for every device of that model—and hackers know them. If you never change these, it’s like leaving your front door wide open.
 
-Log into Your Router Settings:
-Just like in the previous step, enter your router’s IP address into a browser to access the settings.
-Locate the Wireless Settings:
-Find the Wireless Settings or Wi-Fi Settings section. It may also be under Network Settings or Security Settings.
-Check the Encryption Protocol:
-Look for the encryption option, usually listed under Security Type or Encryption Mode.
-Select WPA3 if available. If your router doesn’t support WPA3, WPA2 is still secure enough for most use cases.
-Avoid using WEP or WPA, as they are outdated and insecure.
-Save Settings and Reboot:
-After selecting WPA3 or WPA2, save the settings. Your router may automatically reboot, or you might need to reboot it manually to apply the changes.
-Update Your Devices:
-If you switch to WPA3, ensure your devices (smartphones, laptops, etc.) support it. Older devices may not be able to connect with WPA3 encryption.
-*Disable Remote Access
-Why it’s important: Remote access allows you to connect to your router’s administrative interface from outside your home network. While this feature can be useful, it can also open up your router to attacks, as hackers may attempt to access your router remotely.
+How to change it:
+* Access Your Router’s Settings
+* Open a web browser and type your router’s IP address:
+  * Usually 192.168.1.1 or 192.168.0.1
+* Press Enter, and a login screen should appear.
+* Use the default username and password (check the sticker on the router or the manual).
 
-How to Disable Remote Access:
+ <img src="https://www.hellotech.com/guide/wp-content/uploads/2022/05/how-to-find-IP-address-mac_4-scaled.jpg" width="600" />
 
-Log into Your Router’s Admin Page:
-Use the same steps as before to access your router’s settings via the web browser.
-Find the Remote Access Settings:
-Look for an option related to Remote Management, Remote Access, or Web Access. This is usually in the Administration or Advanced Settings sections.
-Disable Remote Access:
-Disable the option to allow remote access. This ensures that only devices connected to your local network can log into your router’s settings.
-Tip: Some routers allow you to specify certain IP addresses that can access the router remotely. If you need remote access but still want to secure it, only allow trusted IP addresses and use a VPN.
-Save the Settings and Log Out:
-After disabling remote access, save your settings. You’ll likely be logged out automatically, so log back in with your new admin password to make sure the changes took effect.
-Reboot the Router (if necessary):
-Some routers may require a reboot to finalize changes to remote access settings.
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 9:</strong> Browser shown with the router IP typed in and the login screen visible on MacOS. Captured from 
+  <a href="https://www.hellotech.com/guide/for/how-do-i-find-my-router-ip-address" style="color: gray;">HelloTech</a>.
+</p>
+
+ 
+**2) Go to the Admin or System Settings**
+* Look for a tab or section called Administration, System Tools, or Security Settings.
+* Change the Admin Password
+* Create a new password that’s strong and unique.
+* Use a mix of uppercase and lowercase letters, numbers, and symbols.
+ * Example: WiFi4MyHouse!2024
+ * Tip: Don’t use your name, address, or “password123.”
+* Save Your Changes and Log Out
+
+<img src="https://www.cocosenor.com/images/articles/mac/how-to-change-mac-administrator-name-and-password/change-a-new-password-for-admin-account.jpg" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 10:</strong> What this page will look like on a MacOS. Captured from 
+  <a href="https://www.cocosenor.com/articles/mac/how-to-change-mac-administrator-name-and-password.html" style="color: gray;">Cocosensor</a>.
+</p>
+
+*Mid check point: You’ve now locked the front door of your network!*
 
 
-# 5. How to Use a VPN and Why
+**3) Turn On Strong Encryption (WPA2 or WPA3)**
+
+What is WPA2 OR WPA3: Modern routers use WPA2 or WPA3, which offer much better protection. WPA2 and WPA3 are like locks for your Wi-Fi. They protect your internet connection by scrambling your data so hackers can't see what you're doing. WPA2 is strong and widely used.
+WPA3 is the newer, safer version with even better protection—especially on public Wi-Fi. Use WPA3 if your router and devices support it. If not, WPA2 is still safe.
+
+
+Why it matters: Encryption scrambles your internet traffic so others can’t read it. If your router is using an outdated method like WEP for example, your network is vulnerable—even if it has a password.
+
+
+How to check and change it:
+
+1) Log in to your router settings (like before).
+2) Open the Wireless or Wi-Fi Settings section
+3) Look for something like Wireless Security, Encryption Type, or Network Security.
+4) Choose WPA3 (if available), or WPA2
+*If you see WPA3, select it—it’s the newest and most secure.
+*If your router doesn’t support WPA3, WPA2 is still safe for most people.
+*Avoid using WEP or WPA—they’re outdated and easy to crack.
+
+
+<img src="https://discussions.apple.com/content/attachment/99d68810-b6cb-4a3d-a462-ada1f1c3c2d8" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 11:</strong> Screenshot of encryption dropdown menu with WPA3 selected. Captured from 
+  <a href="https://discussions.apple.com/thread/251670595?sortBy=rank" style="color: gray;">AppleSupport</a>.
+</p>
+
+
+* You may need to reconnect your devices using the same Wi-Fi password.
+*Older devices may not support WPA3—if that’s the case, stick with WPA2.*
+
+**4) Disable Remote Access to Your Router**
+
+Why it matters: Remote access lets you log into your router’s settings from anywhere on the internet. While that might sound convenient, it’s a major security risk if left on. Hackers can use this to try logging in and taking control of your network.
+
+How to turn it off:
+* Log into the router’s settings again
+* Look for Remote Access or Remote Management
+* This is usually under Advanced Settings, Security, or Administration.
+* Turn off Remote Access
+* Uncheck or toggle off the setting that allows access from outside your home network.
+
+<img src="https://discussions.apple.com/content/attachment/99d68810-b6cb-4a3d-a462-ada1f1c3c2d8" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 11:</strong> Remote access option turned off on MacOS system settings. Captured from 
+  <a  style="color: gray;">Amber Zeqo</a>.
+</p>
+
+
+*Some routers may require a restart for changes to take effect.*
+
+
+
+
+
+# How to Use a VPN and Why
 
 Why You Need a VPN (and What It Does)
 1. Hides Your IP Address:
@@ -287,7 +334,7 @@ Always Use a Kill Switch: Many VPNs include a kill switch feature, which automat
 Stay Connected to a VPN: If your VPN app allows it, you can set it to automatically connect when your device starts. This adds an extra layer of security, ensuring that you’re always protected, even if you forget to manually connect to the VPN.
 
 
-# 6. How to Manage Passwords Like a Pro
+# How to Manage Passwords Like a Pro
 
 Use a Password Manager
 What it is:
@@ -324,7 +371,7 @@ Why not use SMS for 2FA? While SMS (text messages) used to be the go-to option f
 
 
 
-# 7. Protecting Client & Company Data
+# Protecting Client & Company Data
 
  Use Secure Cloud Services
 What it is:
@@ -360,7 +407,7 @@ How it works:
 * Editor Access: They can make changes to the document.
 * Link Sharing: When sharing links, you can select who has access and whether they can just view or also edit the file.
 
-# 8. Managing Work on Shared or Public Devices
+# Managing Work on Shared or Public Devices
 
 Use private/incognito mode
 Always log out
@@ -368,7 +415,7 @@ Never save passwords on public browsers
 Avoid using unknown USB drives
 
 
-# 9. The Importance of Regular Backups**
+# The Importance of Regular Backups**
 
 Use the 3-2-1 Rule:
 
@@ -379,7 +426,7 @@ Recommended tools: Backblaze, Carbonite, Google One
 
 
 
-# 10. Final Checklist for a Fort Knox-Level Setup
+# Final Checklist for a Fort Knox-Level Setup
 
 * Antivirus installed & running
 * VPN active
@@ -397,13 +444,13 @@ Have I Been Pwned (Check if your info is compromised)
 EFF’s Surveillance Self-Defense (https://ssd.eff.org)
 
 ---
-# 12. Conclusion
+# Conclusion
 
 Securing your remote setup doesn’t have to be overwhelming. Start with the basics—VPN, passwords, antivirus—and build from there. With each step, you’re making it harder for intruders and easier to focus on doing great work from anywhere.
 
 
 ---
-# 13. AI Tools Used
+# AI Tools Used
 
 This manual was created using the following tools:
 
@@ -412,7 +459,7 @@ ChatGPT 4o (OpenAI, GPT-4)
 All content was enhanced with the above tool
 
 ---
-# 14. Works Cited
+# Works Cited
 
 NordVPN. (n.d.). What is a VPN? Retrieved from https://nordvpn.com
 
