@@ -134,11 +134,11 @@ How to install:
 * Click "Get" and then "Install" to download it.
 * Once installed, launch the app from Launchpad or Applications.
 
-<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+<img src="step1.png" width="600" />
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
-  <strong>Figure 5:</strong> In Mac settings where to make sure updates are automatic. Captured from 
-  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+  <strong>Figure 5:</strong> What the NordVPN app looks like in app store. Captured from 
+  <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
 
@@ -148,11 +148,11 @@ How to install:
 * You’ll be redirected to a browser window to complete the login process securely.
 * After logging in, return to the app to continue setup.
 
-<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+<img src="step2.png" width="600" />
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
-  <strong>Figure 6:</strong> In Mac settings where to make sure updates are automatic. Captured from 
-  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+  <strong>Figure 6:</strong> You can Log In or Sign Up in the top-right corner of the screen. Captured from 
+  <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
 3. Grant Permissions
@@ -160,11 +160,11 @@ How to install:
 * Click "Allow" when prompted.
 * You may also need to enter your Mac’s admin password to authorize changes.
 
-<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+<img src="step3.png" width="600" />
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
-  <strong>Figure 7:</strong> In Mac settings where to make sure updates are automatic. Captured from 
-  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+  <strong>Figure 7:</strong> To connect to a specialty server, hover over one of the categories under Specialty Servers, and click on the three-dot menu to select a Country. Captured from 
+  <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
 
@@ -173,11 +173,11 @@ How to install:
 * To select a specific country or server type (like Double VPN or P2P), click the search bar or browse the server list.
 
 
-<img src="https://cdn.osxdaily.com/wp-content/uploads/2019/02/enable-disable-macos-automatic-update-610x301.jpg" width="600" />
+<img src="step4.png" width="600" />
 
 <p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
-  <strong>Figure 8:</strong> In Mac settings where to make sure updates are automatic. Captured from 
-  <a href="https://osxdaily.com/2019/04/11/enable-auto-update-macos-system-software/" style="color: gray;">OSXDaily</a>.
+  <strong>Figure 8:</strong> After completing the above steps, you will be prompted to open the NordVPN app. Agree always to allow Nord Account and grant access to the app. Captured from 
+  <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
 5. Optional: Adjust App Settings
@@ -186,6 +186,7 @@ How to install:
 * Choose a preferred VPN protocol (e.g., NordLynx or OpenVPN).
 * Manage notifications and kill switch options.
 
+Congrats you just secured your NordVPN! This will ensure you have a safe connection in the outside world. It's important to not stop here though. Continue to follow along to learn how you can make sure you keep a secure working environment.
 
 # 4. How to Secure Your Wi-Fi & Internet
 
