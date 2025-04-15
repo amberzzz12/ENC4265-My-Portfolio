@@ -3,7 +3,7 @@
 # Manual 
 
 
-## **How to set up a secure remote work environment with Mac, NordVPN, and Dashlane**
+## **How to set up a secure remote work environment with MacOS using NordVPN and Dashlane**
   * For remote workers, freelancers, digital nomads, and anyone working from home!
 
 This manual will help build a secure and resilient remote work environment. It walks through the key threats remote users face—like unsecured Wi-Fi, phishing, and weak passwords—and provides step-by-step instructions on how to protect personal and company data.
@@ -11,8 +11,8 @@ This manual will help build a secure and resilient remote work environment. It w
 ---
 
  Table of Contents:
-1. [Why Security Matters When You Work Remotely](#why-security-matters-when-you-work-remotely)
-2. [Understanding the Threat Landscape](#.2-understanding-the-threat-landscape)
+1. [Why Security Matters When You Work Remotely](#1.-why-security-matters-when-you-work-remotely)
+2. [Understanding the Threat Landscape](#2.-understanding-the-threat-landscape)
 3. [How to Secure Your Devices](#3.-how-to-secure-your-devices)
 4. [How to Secure Your Wi-Fi & Internet](#4.-how-to-secure-your-wi-fi-&-internet)
 5. [How to Use a VPN and Why](#5.-how-to-use-a-vpn-and-why)
@@ -27,7 +27,7 @@ This manual will help build a secure and resilient remote work environment. It w
 14. [Works Cited](#14.-works-cited)
 ---
 
-# Why Security Matters When You Work Remotely
+# 1. Why Security Matters When You Work Remotely
 
 The freedom to work remotely—from your kitchen, a co-working space, or a favorite café—offers flexibility and independence. But without the protection of a company’s network or IT team, you’re more exposed to cybersecurity threats.
 
