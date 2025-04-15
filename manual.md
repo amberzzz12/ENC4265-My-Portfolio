@@ -47,6 +47,7 @@ In the constant evolving world of technology there are online threats everywhere
 Common Digital Threats for Remote Workers:
 
 **1) Public Wi-Fi Risks (Man-in-the-Middle Attacks)**
+
 What Happens: Hackers can intercept your data on public Wi-Fi—like at coffee shops or airports—and steal things like passwords and payment info.
 
 Protect Yourself: 
@@ -63,6 +64,7 @@ Protect Yourself:
 
 
 **2) Phishing Attacks**
+
 What Happens: Scammers send fake emails or messages pretending to be trusted sources to trick you into clicking harmful links or sharing private info.
 
 Protect Yourself:
@@ -81,6 +83,7 @@ Protect Yourself:
 
 
 **3) Infected USB Devices**
+
 What Happens: Plugging in a USB drive can install hidden malware that steals files or infects your system without you knowing.
 
 Protect Yourself:
@@ -99,6 +102,7 @@ Protect Yourself:
 
 
 **4) Outdated Software (Unpatched Vulnerabilities)**
+
 What Happens: Hackers target old software with known flaws to access your device and data.
 
 Protect Yourself:
@@ -127,7 +131,7 @@ Why is it important: It enhances online privacy and security by encrypting inter
 
 How to install:
 
-1) Download and Install the App
+**1) Download and Install the App**
 * Open the App Store on your Mac.
 * In the search bar, type "NordVPN" and find the official app.
 * Click "Get" and then "Install" to download it.
@@ -141,7 +145,7 @@ How to install:
 </p>
 
 
-2) Log In or Sign Up
+**2) Log In or Sign Up**
 * When the app opens, click “Log In” if you already have a NordVPN account.
 * If you don’t have an account, click “Sign Up” to create one.
 * You’ll be redirected to a browser window to complete the login process securely.
@@ -154,7 +158,7 @@ How to install:
   <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
-3) Grant Permissions
+**3) Grant Permissions**
 * The app may ask for permissions to add VPN configurations to your device.
 * Click "Allow" when prompted.
 * You may also need to enter your Mac’s admin password to authorize changes.
@@ -167,7 +171,7 @@ How to install:
 </p>
 
 
-4) Connect to NordVPN
+**4) Connect to NordVPN**
 * To connect quickly, click “Quick Connect”—this chooses the fastest available server based on your location.
 * To select a specific country or server type (like Double VPN or P2P), click the search bar or browse the server list.
 
@@ -179,7 +183,7 @@ How to install:
   <a href="https://support.nordvpn.com/hc/en-us/articles/20492395403921-Installing-NordVPN-App-Store-version-on-macOS#h_01HG8K02E90YXZNW46H7GR9JXE" style="color: gray;">NordVPN</a>.
 </p>
 
-5) Optional: Adjust App Settings
+**5) Optional: Adjust App Settings**
 * Open the Settings panel to:
 * Enable Auto-connect on startup.
 * Choose a preferred VPN protocol (e.g., NordLynx or OpenVPN).
@@ -200,7 +204,7 @@ Why it matters: Most routers come with a factory-set username and password like 
 How to change it:
 * Access Your Router’s Settings
 * Open a web browser and type your router’s IP address:
-  * Usually 192.168.1.1 or 192.168.0.1
+   * Usually 192.168.1.1 or 192.168.0.1
 * Press Enter, and a login screen should appear.
 * Use the default username and password (check the sticker on the router or the manual).
 
@@ -217,8 +221,8 @@ How to change it:
 * Change the Admin Password
 * Create a new password that’s strong and unique.
 * Use a mix of uppercase and lowercase letters, numbers, and symbols.
- * Example: WiFi4MyHouse!2024
- * Tip: Don’t use your name, address, or “password123.”
+  * Example: WiFi4MyHouse!2024
+  * Tip: Don’t use your name, address, or “password123.”
 * Save Your Changes and Log Out
 
 <img src="https://www.cocosenor.com/images/articles/mac/how-to-change-mac-administrator-name-and-password/change-a-new-password-for-admin-account.jpg" width="600" />
@@ -246,9 +250,9 @@ How to check and change it:
 2) Open the Wireless or Wi-Fi Settings section
 3) Look for something like Wireless Security, Encryption Type, or Network Security.
 4) Choose WPA3 (if available), or WPA2
-*If you see WPA3, select it—it’s the newest and most secure.
-*If your router doesn’t support WPA3, WPA2 is still safe for most people.
-*Avoid using WEP or WPA—they’re outdated and easy to crack.
+   *If you see WPA3, select it—it’s the newest and most secure.
+   *If your router doesn’t support WPA3, WPA2 is still safe for most people.
+   *Avoid using WEP or WPA—they’re outdated and easy to crack.
 
 
 <img src="https://discussions.apple.com/content/attachment/99d68810-b6cb-4a3d-a462-ada1f1c3c2d8" width="600" />
@@ -260,7 +264,7 @@ How to check and change it:
 
 
 * You may need to reconnect your devices using the same Wi-Fi password.
-*Older devices may not support WPA3—if that’s the case, stick with WPA2.*
+  * Older devices may not support WPA3—if that’s the case, stick with WPA2.*
 
 **4) Disable Remote Access to Your Router**
 
