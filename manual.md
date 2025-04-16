@@ -10,21 +10,20 @@ This manual will help build a secure and resilient remote work environment. It w
 
 ---
 
- Table of Contents:
+ # Table of Contents:
  
 1. [Why Security Matters When You Work Remotely](#why-security-matters-when-you-work-remotely)
 2. [Understanding the Threat Landscape](#understanding-the-threat-landscape)
 3. [How to Secure Your Devices](#how-to-secure-your-devices)
-4. [How to Secure Your Wi-Fi & Internet](#how-to-secure-your-wi-fi-&-internet)
+4. [How to Secure Your Internet](#how-to-secure-your-internet)
 5. [How to Manage Passwords Like a Pro](#how-to-manage-passwords-like-a-pro)
 6. [How to Use Dashlane on a MacOS](#how-to-use-dashlane-on-a-macos)
-7. [Protecting Client & Company Data](#protecting-client-&-company-data)
+7. [Protecting Client and Company Data](#protecting-client-and-company-data)
 8. [Managing Work on Shared or Public Devices](#managing-work-on-shared-or-public-devices)
 9. [Final Checklist](#final-checklist)
-10. [Additional Tools and Resources](#additional-tools-and-resources)
-11. [Conclusion](#conclusion)
-12. [AI Tools Used](#ai-tools-used)
-13. [Works Cited](#works-cited)
+10. [Conclusion](#conclusion)
+11. [AI Statement](#ai-statement)
+12. [Works Cited](#works-cited)
 
 ---
 
@@ -206,7 +205,7 @@ Congrats you just secured your NordVPN!
 
 This will ensure you have a safe connection in the outside world. It's important to not stop here though. Continue to follow along to learn how you can make sure you keep a secure working environment.
 
-# How to Secure Your Wi-Fi & Internet
+# How to Secure Your Internet
 
 Your router is the heart of your internet connection. It connects all your devices—phones, laptops, smart TVs—to the web. But if it’s not secured properly, hackers can easily sneak in, steal your data, or slow down your network. Thankfully, locking things down only takes a few steps.
 
@@ -270,7 +269,9 @@ How to check and change it:
 4) Choose WPA3 (if available), or WPA2
    
    *If you see WPA3, select it—it’s the newest and most secure.
+   
    *If your router doesn’t support WPA3, WPA2 is still safe for most people.
+   
    *Avoid using WEP or WPA—they’re outdated and easy to crack.
 
 
@@ -448,7 +449,7 @@ Now that everything is set up, you don’t have to worry about remembering passw
 
 
 
-# Protecting Client & Company Data
+# Protecting Client and Company Data
 
 Let’s do a quick recap of what we’ve covered so far.
 
@@ -584,10 +585,15 @@ Use the 3-2-1 Rule:
 Here’s a quick list to make sure your remote work setup is rock solid:
 
 ✅ Antivirus software is installed and running
+
 ✅ VPN is turned on
+
 ✅ Wi-Fi is secured (WPA2/WPA3)
+
 ✅ Password manager is used
+
 ✅ Your data is backed up
+
 ✅ No sensitive files are stored directly on your laptop
 
 ---
@@ -600,13 +606,13 @@ From there, you can layer on other smart habits like enabling two-factor authent
 The goal isn’t perfection; it’s progress. With just a few simple tools and habits, you make it much harder for hackers to get in—and much easier for you to work confidently and securely from anywhere in the world.
 
 ---
-# AI Tools Used
+# AI Statement
+
 
 This manual was created using the following tools:
 
 ChatGPT 4o (OpenAI, GPT-4) 
 
-All content was enhanced with the above tool
 
 ---
 # Works Cited
