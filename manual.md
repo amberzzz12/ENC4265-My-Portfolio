@@ -21,7 +21,7 @@ This manual will help build a secure and resilient remote work environment. It w
 7. [Protecting Client & Company Data](#protecting-client-&-company-data)
 8. [Managing Work on Shared or Public Devices](#managing-work-on-shared-or-public-devices)
 9. [The Importance of Regular Backups](#the-importance-of-regular-backups)
-10. [Final Checklist for a Fort Knox-Level Setup](#final-checklist-for-a-fort-knox-level-setup)
+10. [Final Checklist](#final-checklist)
 11. [Additional Tools and Resources](#additional-tools-and-resources)
 12. [Conclusion](#conclusion)
 13. [AI Tools Used](#ai-tools-ssed)
@@ -269,6 +269,7 @@ How to check and change it:
 3) Look for something like Wireless Security, Encryption Type, or Network Security.
   
 4) Choose WPA3 (if available), or WPA2
+   
    *If you see WPA3, select it—it’s the newest and most secure.
    *If your router doesn’t support WPA3, WPA2 is still safe for most people.
    *Avoid using WEP or WPA—they’re outdated and easy to crack.
@@ -378,11 +379,12 @@ Let's get started to help continue to secure your remote workspace!
 
 **2) Create Your Dashlane Account**
 
-     * Open the Dashlane app after it installs.
-     * Click “Create Account.
-     * Enter your email address and choose a strong master password—this is the only password you’ll ever need to remember, so make it good!
-     * Use a mix of uppercase letters, lowercase letters, numbers, and special symbols.
-     * Make it something memorable to you, but hard for others to guess.
+   * Open the Dashlane app after it installs.
+   * Click “Create Account.
+   * Enter your email address and choose a strong master password—this is the only password you’ll ever need to remember, so make it good!
+   * Use a mix of uppercase letters, lowercase letters, numbers, and special symbols.
+   * Make it something memorable to you, but hard for others to guess.
+
 *Tip: Dashlane will let you know if your master password is strong enough.* 
 
 
@@ -396,12 +398,12 @@ Let's get started to help continue to secure your remote workspace!
 
 **3) Save Your First Password**
 
-     * Once your account is created, Dashlane will ask if you want to import existing passwords (from your browser) or manually add a new one.
-     * Try adding a password manually first:
-     * Click “+ Add new item” or go to the Passwords tab.
-     * Enter the website, your username, and your password.
-     * Click Save.
-         * This is great for adding things like your email, banking, or social media logins right away.
+   * Once your account is created, Dashlane will ask if you want to import existing passwords (from your browser) or manually add a new one.
+   * Try adding a password manually first:
+   * Click “+ Add new item” or go to the Passwords tab.
+   * Enter the website, your username, and your password.
+   * Click Save.
+     * This is great for adding things like your email, banking, or social media logins right away.
 
 <img src="https://support.dashlane.com/hc/article_attachments/22811782969106" width="600" />
 
@@ -412,10 +414,11 @@ Let's get started to help continue to secure your remote workspace!
 
 
 **4) Install the Dashlane Browser Extension**
-     * Dashlane works best when it’s added to your browser (like Safari, Chrome, or Firefox).
-     * After setting up your account, it will suggest installing the browser extension.
-     * Follow the on-screen instructions to add it.
-        * This lets Dashlane autofill your passwords automatically when you visit websites.
+
+   * Dashlane works best when it’s added to your browser (like Safari, Chrome, or Firefox).
+   * After setting up your account, it will suggest installing the browser extension.
+   * Follow the on-screen instructions to add it.
+     * This lets Dashlane autofill your passwords automatically when you visit websites.
 
 
 
@@ -432,9 +435,9 @@ Let's get started to help continue to secure your remote workspace!
 
 Now that everything is set up, you don’t have to worry about remembering passwords anymore.
 
-    * When you visit a login page, Dashlane will offer to fill in your username and password.
-    * When you create a new account somewhere, Dashlane will offer to generate a strong password for you.
-    * You can also access your vault at any time by opening the Dashlane app.
+   * When you visit a login page, Dashlane will offer to fill in your username and password.
+   * When you create a new account somewhere, Dashlane will offer to generate a strong password for you.
+   * You can also access your vault at any time by opening the Dashlane app.
 
 
 <img src="https://www.dashlane.com/_next/image?url=https%3A%2F%2Fripleyprd.wpengine.com%2Fwp-content%2Fuploads%2F2023%2F11%2Fhome-features-autofill%403x-3.png&w=3840&q=75" width="600" />
@@ -448,81 +451,154 @@ Now that everything is set up, you don’t have to worry about remembering passw
 
 # Protecting Client & Company Data
 
- Use Secure Cloud Services
-What it is:
-Cloud services like Google Workspace and Dropbox Business allow you to store your files online instead of on your computer. These platforms are built to be secure and offer features that protect your data.
+Let’s do a quick recap of what we’ve covered so far.
 
-Why you need it:
-Storing sensitive files locally on your computer or device makes them vulnerable to theft, loss, or damage. By storing files in secure cloud services, you reduce the risk of data breaches or losing important information if your device is compromised.
+We started by talking about the importance of creating a secure working environment when working remotely. In today’s digital world, working from home means you're responsible for protecting your own data, devices, and connections. That’s why each step in this guide matters.
+
+First, we walked through how to use a VPN, and in this manual, we used NordVPN as an example. A VPN helps encrypt your internet traffic, making it much harder for hackers or third parties to snoop on your activity—even on public Wi-Fi.
+
+Next, we looked at your Wi-Fi security. We explained how to make sure your network is using the latest encryption standard, such as WPA2 or WPA3, and how older protocols like WEP leave you exposed to attacks.
+
+After that, we explored the importance of managing your passwords. We discussed how using a password manager—like Dashlane—can simplify your digital life while also keeping your credentials safe. It stores your passwords in a secure vault and uses its own encryption to protect them. That way, you only need to remember one strong master password.
+
+Now, in our final section, we’ll go over a few more steps you can take to stay on the right path—like enabling two-factor authentication (2FA), keeping software up to date, and staying alert to common scams. These small actions make a big difference when it comes to staying safe online.
+
+
+The use of Secure Cloud Services:
+
+**What it is**: Cloud services like Google Workspace and Dropbox Business let you save your files online instead of just on your computer. These platforms are designed to keep your data safe.
+
+**Why you need it**: If your laptop gets lost, stolen, or hacked, any important files stored on it could be gone or exposed. Saving your files in the cloud adds an extra layer of security and helps keep everything backed up and easy to access from anywhere.
+
+How it works:
+
+* Files are encrypted (scrambled to protect them) when stored in the cloud.
+* You can open your files from any device, anywhere.
+* Cloud services automatically back up your files so you don’t lose your work.
+
+
+<img src="https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/compare/fss-all-files-ui.png?id=7c36799a-8302-48c4-b7f4-23728bf0e66a&output_type=png" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 18:</strong> Dropbox dashboard showing files saved in the cloud. Captured from 
+  <a href="https://www.dropbox.com/compare/google-drive" style="color: gray;">DropBox</a>.
+</p>
+
+
+
+Why not save files on your computer? Local files can be lost, deleted, or stolen. Cloud storage keeps them safer and easier to manage.
+
+
+* Avoid Saving Sensitive Files Locally
+
+What it is: Important files like financial info or client data should stay in the cloud—not on your device.
+
+Why you need it: If your computer gets hacked or stolen, sensitive files on it could fall into the wrong hands.
+
+How to do it:
+
+* Keep important files in cloud storage only.
+* If you must save something locally, encrypt it and use a password-protected folder.
+
+
+
+<img src="https://toolbox.easeus.com/images/toolbox/file-lock/onedrive-personal-vault-1.png" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 19:</strong> A file being uploaded to a secure cloud folder, or a local folder with encryption settings enabled. Captured from 
+  <a href="https://toolbox.easeus.com/file-lock-tips/password-protect-onedrive-folder.html" style="color: gray;">CaseUS</a>.
+</p>
+
+
+
+
+* Use Permissions (Control Access to Files)
+
+What it is: When sharing files through the cloud, you can control what others can do—like only letting them view, not edit.
+
+Why you need it: If someone can edit or download your files when they’re not supposed to, they could change, delete, or misuse your info.
 
 How it works:
 
-Google Workspace and Dropbox Business encrypt your files, so they are protected while stored online. You can access your files from anywhere and on any device, which makes it easier to work remotely. Cloud services offer automatic backups and sync, so your files are always up-to-date.
+* Most cloud services give you options when sharing:
 
-Why not just save files on your computer? Storing files locally on your device makes them more vulnerable to things like hacking, physical theft (if your computer gets stolen), or accidental deletion. Cloud services provide an added layer of security and access flexibility.
+  * View Only – They can only look at the file.
+  * Comment Only – They can leave notes, but not make changes.
+  * Editor Access – They can make changes to the file.
+  * Link Sharing – You decide who can open the link and what they’re allowed to do.
 
-Avoid Saving Sensitive Files Locally
 
-What it is: Sensitive files, like financial data, client records, and personal information, should not be saved on your computer’s hard drive or other local storage. Instead, save them in secure cloud services.
+<img src="https://sheetshelp.com/wp-content/uploads/2021/12/three-levels.png" width="600" />
 
-Why you need it: If you save important files locally and your device is compromised, hacked, or lost, those files are easily exposed. Cloud storage is more secure, provides encryption, and makes it easier to control access to sensitive data.
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 20:</strong> Showing the different access levels like “Viewer,” “Commenter,” and “Editor.”. Captured from 
+  <a href="https://sheetshelp.com/sharing/" style="color: gray;">Sheets Help</a>.
+</p>
 
-How it works: Keep sensitive files only in the cloud where they are encrypted and protected by strong security protocols.
-If you must save something locally for offline access, make sure to encrypt it and use a password-protected folder.
-Use Permissions (e.g., Read-Only Access Links)
 
-What it is: When sharing files, cloud services let you control how others access them. For example, you can create links that only let others view files (read-only) instead of letting them edit or download them.
-
-Why you need it: This gives you control over who can access your files and what they can do with them. If you don’t set the correct permissions, unauthorized people might be able to edit, delete, or download sensitive files.
-
-How it works:
-* Sharing Options: When sharing a file or folder in cloud services like Google Drive, you can choose options such as:
-* View Only: The recipient can only view the file, not make changes.
-* Comment Only: They can leave comments but can’t edit the content.
-* Editor Access: They can make changes to the document.
-* Link Sharing: When sharing links, you can select who has access and whether they can just view or also edit the file.
 
 # Managing Work on Shared or Public Devices
 
-Use private/incognito mode
-Always log out
-Never save passwords on public browsers
-Avoid using unknown USB drives
+
+**Working on Shared or Public Devices:**
+
+Sometimes you may need to use a shared computer—at a library, coworking space, or even a friend’s house. When you do, follow these tips to keep your info safe:
+
+* Use Private or Incognito Mode: This stops the browser from saving your browsing history, cookies, or temporary files.
 
 
-# The Importance of Regular Backups**
+<img src="https://i.insider.com/6256dd3a9c862b00181a9e56?width=800&format=jpeg&auto=webp" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 21:</strong> Screenshot of Chrome or Safari in Incognito mode. Captured from 
+  <a href="https://www.businessinsider.com/guides/tech/incognito-mode" style="color: gray;">Business Insider</a>.
+</p>
+
+
+* Always Log Out: After checking email or logging into work apps, log out before closing the browser.
+* Never Save Passwords: Say “no” when the browser asks if it should save your login info.
+* Avoid Unknown USB Drives: Never plug in USB sticks you don’t trust—they can carry viruses or malware.
+
+
+**Why Regular Backups Matter**
+
+Things go wrong: hard drives fail, laptops break, files accidentally get deleted. Backups are your safety net.
 
 Use the 3-2-1 Rule:
 
-3 copies of your data
-2 different storage types
-1 copy off-site/cloud
-Recommended tools: Backblaze, Carbonite, Google One
+* 3 copies of your data
+* 2 different types of storage (e.g., external drive + cloud)
+* 1 copy stored off-site or in the cloud
+
+
+<img src="https://www.collidu.com/media/catalog/product/img/b/e/be1d3bb74ec86ddea430eb77afcb1d633103fdd744406d5608e0cf427cc2b487/3-2-1-backup-slide2.png" width="600" />
+
+<p style="font-family: Georgia, serif; font-size: 14px; font-style: italic; color: gray;">
+  <strong>Figure 22:</strong> A simple diagram showing the 3-2-1 rule visually. Captured from 
+  <a href="https://www.collidu.com/presentation-3-2-1-backup" style="color: gray;">Collidu</a>.
+</p>
 
 
 
-# Final Checklist for a Fort Knox-Level Setup
+# Final Checklist 
 
-* Antivirus installed & running
-* VPN active
-* Wi-Fi secured
-* Password manager used
-* 2FA enabled
-* Data backed up
-* No sensitive files stored locally
+Here’s a quick list to make sure your remote work setup is rock solid:
 
-Additional Tools and Resources
-
-Signal (Secure messaging)
-ProtonMail (Encrypted email)
-Have I Been Pwned (Check if your info is compromised)
-EFF’s Surveillance Self-Defense (https://ssd.eff.org)
+✅ Antivirus software is installed and running
+✅ VPN is turned on
+✅ Wi-Fi is secured (WPA2/WPA3)
+✅ Password manager is used
+✅ Your data is backed up
+✅ No sensitive files are stored directly on your laptop
 
 ---
 # Conclusion
 
-Securing your remote setup doesn’t have to be overwhelming. Start with the basics—VPN, passwords, antivirus—and build from there. With each step, you’re making it harder for intruders and easier to focus on doing great work from anywhere.
+Securing your remote setup doesn’t have to be complicated or stressful. Start with the basics: use a VPN to protect your connection, a password manager to keep your logins safe, and make sure your antivirus software is running and up-to-date.
 
+From there, you can layer on other smart habits like enabling two-factor authentication (2FA), backing up your files, and avoiding saving sensitive info directly on your device. Each step adds another layer of protection—like locking more doors to your digital home.
+
+The goal isn’t perfection; it’s progress. With just a few simple tools and habits, you make it much harder for hackers to get in—and much easier for you to work confidently and securely from anywhere in the world.
 
 ---
 # AI Tools Used
@@ -538,14 +614,5 @@ All content was enhanced with the above tool
 
 NordVPN. (n.d.). What is a VPN? Retrieved from https://nordvpn.com
 
-CISA. (2024). Remote Work Security Tips. https://www.cisa.gov
-
-ProtonVPN. (n.d.). Secure Internet Guide. https://protonvpn.com
-
 Dashlane. (n.d.). Password Manager Features. https://www.dashlane.com
 
-Malwarebytes. (n.d.). Why Anti-Malware Matters. https://www.malwarebytes.com
-
-EFF. (n.d.). Surveillance Self-Defense. https://ssd.eff.org
-
-Have I Been Pwned. (n.d.). Data Breach Check. https://haveibeenpwned.com
