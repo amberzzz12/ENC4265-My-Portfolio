@@ -20,12 +20,11 @@ This manual will help build a secure and resilient remote work environment. It w
 6. [How to Use Dashlane on a MacOS](#how-to-use-dashlane-on-a-macos)
 7. [Protecting Client & Company Data](#protecting-client-&-company-data)
 8. [Managing Work on Shared or Public Devices](#managing-work-on-shared-or-public-devices)
-9. [The Importance of Regular Backups](#the-importance-of-regular-backups)
-10. [Final Checklist](#final-checklist)
-11. [Additional Tools and Resources](#additional-tools-and-resources)
-12. [Conclusion](#conclusion)
-13. [AI Tools Used](#ai-tools-ssed)
-14. [Works Cited](#works-cited)
+9. [Final Checklist](#final-checklist)
+10. [Additional Tools and Resources](#additional-tools-and-resources)
+11. [Conclusion](#conclusion)
+12. [AI Tools Used](#ai-tools-used)
+13. [Works Cited](#works-cited)
 
 ---
 
