@@ -10,7 +10,7 @@ This manual will help build a secure and resilient remote work environment. It w
 
 ---
 
- # Table of Contents:
+Table of Contents:
  
 1. [Why Security Matters When You Work Remotely](#why-security-matters-when-you-work-remotely)
 2. [Understanding the Threat Landscape](#understanding-the-threat-landscape)
@@ -39,6 +39,9 @@ This manual is your step-by-step guide to securing your remote work setup. Wheth
 * Protect sensitive data and communication
 * Set up reliable backup systems
 
+Disclaimer: 
+
+*Links to original sources are embedded within each figure’s credit line (e.g., 'captured from...'), allowing you to click directly on the credit to access the source.*  
 
 # Understanding the Threat Landscape
 
