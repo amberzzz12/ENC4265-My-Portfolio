@@ -293,3 +293,6 @@ The work I completed throughout the course definitely helped me get closer to my
 My experience with AI in the course, especially using BoodleBox, was also really eye-opening. Exploring how AI can assist with writing, idea generation, and editing gave me a new perspective on the tools available to us. I found BoodleBox and its features useful for brainstorming and drafting, and it made me more curious about how AI can support work processes in a professional environment. I now feel more prepared to use AI tools responsibly and thoughtfully in my future career, understanding both their benefits and their limitations.
 
 Looking to the future, I want to apply these skills I have learned and transition them into a role like UX/UI design or web development to help create user-friendly and visually appealing digital products by focusing on both the overall user experience and the user interface. Eventually, getting a project manager position where I can really hone in on communicating to a team and leading them towards finishing a project. 
+
+---
+No AI was used in this
