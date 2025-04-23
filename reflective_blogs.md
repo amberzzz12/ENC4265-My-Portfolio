@@ -8,6 +8,7 @@
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
 7. [Reflective Blog 7](#reflective-blog-7)
+8. [Self Evaluation](#self-evaluation)
    
 # Wayback Analysis
 <img src="https://helios-i.mashable.com/imagery/articles/032HZdBIF99jgj2IsxFmg8d/hero-image.fill.size_1248x702.v1631655213.jpg" alt="Example Image" width="400"> <img src="https://static.vecteezy.com/system/resources/thumbnails/037/156/782/small_2x/right-arrow-icon-vector.jpg" alt="Example Image" width="150">  <img src="https://colibriwp.com/blog/wp-content/uploads/2018/07/banner-redimensionat.jpg" alt="Example Image" width="405">
@@ -270,3 +271,25 @@ To make the explanation page clearer and more effective, it would be helpful to 
 --- 
 *ChatGPT 4o was used to enhance readability 
 
+---
+
+# Self Evaluation 
+
+
+## Assignment Description:
+Reflect on the semester. What have you learned? How have you grown? Are you closer to your career goals than when you started? What are you proud of, and what will you work to avoid in the future? 
+
+
+## Option B:
+Rather than a traditional essay format, frame this as an "about me" or "self-evaluation" page on your digital portfolio website, focusing, of course, on your most recent course and what you learned in it. Be sure to thoroughly and honestly address the three bulleted questions above.
+
+## Response:
+This semester, I learned a lot about technical writing and the importance of communicating clearly and effectively in a professional setting. The course helped me understand how to structure information, write with purpose, and adapt my communication style depending on the audience. These are skills I know will be valuable no matter what career path I take. Through the textbook, Letting Go of the Words by Janice Redish it helped further clarify these topics. The weekly assignments, reflective blogs, and project deliverables helped me strengthen my response skills and taught me how to communicate information in a clear and concise way.  
+
+The overall class experience was really positive. I was introduced to several new tools and platforms that I had not worked with before, such as GitHub and Markdown. Learning how to use these tools not only helped me complete assignments, but also gave me practical, hands-on experience that I can take into the workplace. I appreciated how the course balanced both the technical side of writing and the tools that support it.
+
+The work I completed throughout the course definitely helped me get closer to my goals. One of my main objectives is to become a more confident communicator, especially when it comes to technical subjects or collaborative projects. This course gave me the opportunity to build that confidence through real-world-style writing tasks and peer feedback.
+
+My experience with AI in the course, especially using BoodleBox, was also really eye-opening. Exploring how AI can assist with writing, idea generation, and editing gave me a new perspective on the tools available to us. I found BoodleBox and its features useful for brainstorming and drafting, and it made me more curious about how AI can support work processes in a professional environment. I now feel more prepared to use AI tools responsibly and thoughtfully in my future career, understanding both their benefits and their limitations.
+
+Looking to the future, I want to apply these skills I have learned and transition them into a role like UX/UI design or web development to help create user-friendly and visually appealing digital products by focusing on both the overall user experience and the user interface. Eventually, getting a project manager position where I can really hone in on communicating to a team and leading them towards finishing a project. 
